@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Investigating Proxemics Behaviors Towards Individuals, Pairs, and Groups in Virtual Reality'
-caption: A study showing consistent interpersonal distances are maintained by the users regardless of social configurations, which offer insights for designers to create more intuitive and social-aware virtual environments
+title: 'Investigating proxemics behaviors towards individuals, pairs, and groups in virtual reality'
+caption: A study showing that interpersonal distances are maintained by the users regardless of social configurations, which offer insights for designers to create more intuitive and social-aware virtual environments
 description: >
   
 date: 8 May 2024
@@ -21,4 +21,8 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-a collaboration project
+The proxemics theory explains the consistent social boundaries surrounding individuals (Hall, 1966), yet little is known about the social boundaries surrounding pairs or groups of people. The current study explored interpersonal proxemics behavior in a virtual environment, focusing on distances maintained towards individual pedestrians, pairs, and groups. Using virtual reality to simulate a city center, participants freely navigated it while their movements and gazes were captured. Importantly, the city was populated by pedestrians in different social configurations. Eye movements identified interactions defined by gaze-onsets towards a pedestrian's head. Our results indicate that participants approached individuals with a median distance of 3.18 unity units aligned with the social space boundary (Hall, 1966). Distances kept from pairs and groups were similarly centered within the social space, revealing no significant difference in approaching behavior across different social configurations. The consistency in approaching distances suggests that personal and social spaces are not substantially altered, irrespective of the social context.
+
+This paper has been submitted to *[Virtual Reality]* and is currently under review for publication.
+
+[Virtual Reality]: https://link.springer.com/journal/10055
