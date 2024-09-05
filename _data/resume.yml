@@ -80,12 +80,13 @@ education:
     
 skills:
   - name: "Programming Tools"
-    level: "2-3"
+    level: "4-5"
     keywords:
-      - "Python (NumPy, scikit-learn, Matplotlib)"
+      - "Python (NumPy, Pandas, scikit-learn, Matplotlib)"
       - "R (ggplot2, Tidyverse)"
       - "Git"
       - "Excel"
+  
   - name: "Data Analysis"
     level: "Master"
     keywords:
