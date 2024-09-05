@@ -3,6 +3,6 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  Here are the projects I have worked on over the years.
+  Independent and collaboration projects I worked on
 no_groups: true
 ---
