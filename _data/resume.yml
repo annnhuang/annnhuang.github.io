@@ -99,7 +99,7 @@ languages:
   - language: "Chinese"
     fluency: "5-5"
   - language: "German"
-    fluency: "2-5"
+    fluency: "4-5"
   - language: "Dutch"
     fluency: "2-5"
 
@@ -108,7 +108,7 @@ interests:
     keywords:
       - "Badminton"
       - "Cycling"
-  - name: "Other"
+  - name: "Hobbies"
     keywords:
       - "Website building"
       - "Photography"
