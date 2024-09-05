@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Enhancing safety in autonomous vehicles: the impact of warning signal modalities on driver behavior and situational Awareness'
+title: 'Enhancing safety in autonomous vehicles: the impact of warning signal modalities on driver behavior and situational awareness'
 caption: A study conducted in VR showing warning signals in highly automated vehicles improve driver attention and safety
 description: >
   

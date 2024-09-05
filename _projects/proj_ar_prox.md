@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Proxemics for human-agent interaction in AR'
+title: 'Proxemics for human-agent interaction in augmented reality'
 caption: A study showing how virtual human-like avatar's personal space in augmented reality influences user behavior and offers spatial computing design insights for comfortable user interactions
 description: >
   In this project, we used 6 different human-like avatars
