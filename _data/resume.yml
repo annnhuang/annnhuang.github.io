@@ -71,12 +71,12 @@ education:
     startDate: "2012-09-30"
     endDate: "2016-08-31"
 
-publications:
-  - name: "Proxemics for Human-Agent Interaction in Augmented Reality"
-    publisher: "ACM CHI"
-    releaseDate: "2022-02-01"
-    website: "https://dl.acm.org/doi/10.1145/3491102.3517593"
-    summary: "New study showing how virtual agents' personal space in augmented reality influences user behavior and offers design insights for comfortable interactions."
+#publications:
+#  - name: "Proxemics for Human-Agent Interaction in Augmented Reality"
+#    publisher: "ACM CHI"
+#    releaseDate: "2022-02-01"
+#    website: "https://dl.acm.org/doi/10.1145/3491102.3517593"
+#    summary: "New study showing how virtual agents' personal space in augmented reality influences user behavior and offers design insights for comfortable interactions."
     
 skills:
   - name: "Programming Tools"

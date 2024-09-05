@@ -1,8 +1,7 @@
 ---
 layout: project
 title: 'Choice history biases in dyadic decision-making'
-caption: A research study showing how our perceptual judments are shaped by others
-
+caption: Study with new dyadic design that investigates how our perceptual judments are shaped by others
 description: >
   
 date: 8 May 2024

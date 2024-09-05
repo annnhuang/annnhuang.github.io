@@ -1,9 +1,10 @@
 ---
 layout: project
 title: 'Enhancing safety in autonomous vehicles: the impact of warning signal modalities on driver behavior and situational awareness'
-caption: A study conducted in VR showing warning signals in highly automated vehicles improve driver attention and safety
+caption: A large-scale virtual reality experiment examining human-vehicle interaction
 description: >
-  
+   Our findings showed that different warning signals (auditory vs. visual-auditory) in highly automated vehicles improve driver attention and safety
+
 date: 15 Jul 2024
 image: 
   path: /assets/img/projects/pic_vr.jpg
