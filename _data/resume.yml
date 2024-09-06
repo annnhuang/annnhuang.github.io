@@ -79,8 +79,8 @@ education:
 #    summary: "New study showing how virtual agents' personal space in augmented reality influences user behavior and offers design insights for comfortable interactions."
     
 skills:
-  - name: "Programming Tools"
-    level: "4-5"
+  - name: "Programming"
+    level: "Master"
     keywords:
       - "Python (NumPy, Pandas, scikit-learn, Matplotlib)"
       - "R (ggplot2, Tidyverse)"
@@ -100,7 +100,7 @@ languages:
   - language: "Chinese"
     fluency: "5-5"
   - language: "German"
-    fluency: "3-4"
+    fluency: "3-5"
   - language: "Dutch"
     fluency: "2-5"
 
