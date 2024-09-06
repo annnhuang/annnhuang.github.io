@@ -3,6 +3,6 @@ layout: projects
 title: Projects
 show_collection: projects
 description: >
-  Independent and collaboration projects I worked on
+  showcase of projects conducted in collaboration with awesome teams
 no_groups: true
 ---
