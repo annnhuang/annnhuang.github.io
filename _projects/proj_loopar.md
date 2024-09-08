@@ -14,7 +14,7 @@ image:
 #    480w:  /assets/img/projects/qwtel@0,25x.jpg
 links:
   - title: Link
-    url:
+    url: https://www.mdpi.com/2624-8921/6/3/76
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
@@ -31,9 +31,5 @@ This study investigates how signal modalities affect drivers’ behavior using v
 The analysis of gaze dwell time on driving hazards revealed that audio and visual signals improved situational awareness. Lastly, warning signals reduced anxiety and increased trust. These results highlight the distinct effectiveness of signal modalities in improving driver reaction times, situational awareness, and perceived safety, mitigating the “out-of-the-loop” problem and fostering human–vehicle cooperation.
 
 Keywords: semi-autonomous vehicles; multimodal
-
-This paper has been submitted to *[Vehicles]* and is accepted for publication
-
-[Vehicles]: https://www.mdpi.com/journal/vehicles
 
 (Photo by XR Expo on Unsplash)
