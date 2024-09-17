@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Enhancing safety in autonomous vehicles'
-caption: A large-scale virtual reality experiment investigating the impact of auditory and visual warning Signals on driver behavior and situational awareness
+caption: A large-scale virtual reality experiment investigating the impact of auditory and visual warning signals on driver behavior and situational awareness
 description: >
    Our findings showed that different warning signals (auditory vs. visual-auditory) in highly automated vehicles improve driver attention and safety
 
