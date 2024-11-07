@@ -22,14 +22,14 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-*what is the problem?*
+*What is the problem?*
 - Augmented Reality (AR) embeds virtual content in physical spaces, including virtual agents that are known to exert a social presence on users. However, existing design guidelines for AR rarely consider the social implications of an agent’s personal space (PS) and that it can impact user behavior and arousal.
 
-*why is the problem important?*
+*Why is the problem important?*
 - Knowing how the interpersonal-distances and spaces of the human-like agents conincide with human users is important because it can influence user experience i.e., whether is is comfortable or uncomfortable.
 
-*what is the solution?*
+*What is the solution?*
 - We conducted an experiment (N=54) where participants interacted with agents in an AR art gallery scenario.
 
-*how do the findings address the problem?*
+*How do the findings address the problem?*
 - Our results showed that participants respected the agents’ PS and modulated interpersonal distances according to the human-like agents’ perceived gender. When participants were instructed to walk through the agents, we observed heightened skin-conductance levels that indicate physiological arousal. We discussed these results in terms of proxemic theory that result in design recommendations for implementing pervasive AR experiences with virtual agents.

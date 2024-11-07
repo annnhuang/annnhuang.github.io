@@ -21,16 +21,16 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-*what is the problem?*
+*What is the problem?*
 - Past research work showed that our perceptual decisions are influenced by past choices, a phenomenon known as the “choice history bias” effect. However, prevalent across the work on choice history bias is the use of single-subject experiment task design, which limit the implications of these evidence to individual decisions.
 
-*why is the problem important?*
+*Why is the problem important?*
 - This research is important becuase it includes a social interaction component to the classical experimental designs, which is closer and more realistic to how we make decisions in our every day life. In other words, in reality people are not isolated decision-makers. Rather, people often interact with others and integrate existing information available to us (e.g. looking a maps together, playing double-player badminton match, etc).
 
-*what is the solution?*
+*What is the solution?*
 - We invited people, grouped in dyads (N = 66), to perform a shared perceptual decision-making experiment. In this shared task, each of the two members took turn to give a decision while knowing the other is observing his/her/their choice response. To analyze the data, we used a statistical modeling approach to fit generalized linear models to the choice data in a series of steps.
 
-*how do the findings address the problem?*
+*How do the findings address the problem?*
 - The findings support that the participant treats their partner’s decision differently from their own, in line with the idea that perceptual decision-making is not solely an individualistic decision process.
 
 This paper has been submitted to *[Nature Scientific Reports]* and is currently under review for publication.
