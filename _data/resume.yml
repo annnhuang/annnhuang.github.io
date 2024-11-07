@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Ann Huang"
-  label: "PhD Researcher"
+  label: "Scientific Researcher"
   picture: /assets/img/logo-2.jpg
   email: "ann.huang@uni-osnabrueck.de"
   phone: "+49 151 23660273"
@@ -14,7 +14,7 @@ basics:
      at the University Osnabrück. I am part of the Neurobiopsychology lab, where I am advised
      by [Dr. Prof. Peter König](https://scholar.google.com/citations?user=Ieubd0EAAAAJ).
      
-     As a creative and analytical researcher with over 3.5 years of experience, I specialize in the intersection
+     As a creative, motivated and analytically minded researcher with over 3.5 years of experience managing projects, I specialize in the intersection
      of human behavior and technology. I am passionate about working with cross-functional teams to deliver data-driven solutions.
      
   location:
@@ -36,11 +36,11 @@ work:
 
     highlights:
     - "Designed and conducted psychophysics experiments, collecting data from over 70+ participants to produce a structured dataset"
-    - "Developed and implemented data pre-processing pipelines in R and Python, including data cleaning, generating bar plots and histograms, and creating features for time series analyses to identify key patterns in the data Built and evaluated logistic regression models with cross validation metrics to investigate history biases in dyadic decision-making, delivering insights that better informed future experimental designs"
-    - "Built and evaluated logistic regression models with cross validation metrics, drawing scientific insights that informed future research designs"
+    - "Developed and implemented data pre-processing pipelines in R and Python, including data cleaning, visualizations, and creating features for time series analyses to identify key patterns in the data"
+    - "Built and evaluated logistic regression models with cross validation metrics to investigate history biases in dyadic decision-making, delivering insights that better informed future experimental designs"
     - "Initiated, led and executed year-long scientific projects in collaboration with cross-functional teams of 3-4 members from diverse backgrounds, including computer science, neuroscience, and psychology, ensuring timely project completion"
     - "Published 4 original scientific peer-reviewed articles; distilled complex scientific results into actionable recommendations, including design guidelines in the human-computer interaction (HCI)/computational cognitive science domains"
-    - "Supervised bachelor's thesis on the analysis of visual behavior in virtual reality vehicle driving; providing guidance on data analysis, coding best practices, and scientific communication."
+    - "Supervised bachelor's student on the analysis of visual behavior in virtual reality vehicle driving; providing guidance on data analysis, coding best practices, and scientific communication."
     - "Coordinated on a team of 4 to host the Computational Cognition Conference; secured funding (~4000 EUR) and built the conference website (https://comco23.github.io/) using Jekyll/GitHub Pages with Google SEO tags that optimized visibility, resulting a 13% average click-through rate over 7 months"
   
   - company: Institute of Informatics / Human Centered-Ubiquitous Media
