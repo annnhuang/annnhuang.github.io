@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Ann Huang"
-  label: "PhD Candidate"
+  label: "PhD Researcher"
   picture: /assets/img/logo-2.jpg
   email: "ann.huang@uni-osnabrueck.de"
   phone: "+49 151 23660273"
@@ -15,7 +15,7 @@ basics:
      by [Dr. Prof. Peter König](https://scholar.google.com/citations?user=Ieubd0EAAAAJ).
      
      As a creative and analytical researcher with over 3.5 years of experience, I specialize in the intersection
-     of human behavior and technology. I am passionate about working with cross-functional teams to deliver data-driven solutions to problems.
+     of human behavior and technology. I am passionate about working with cross-functional teams to deliver data-driven solutions.
      
   location:
     address: "Wachsbleiche 27"

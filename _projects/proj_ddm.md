@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Choice history biases in dyadic decision-making'
-caption: Study with new dyadic design that investigates how our perceptual judments are shaped by others
+caption: A study that used two-people design and showed how our perceptual judments are shaped by others
 description: >
-  
+  In reality we are not isolated design-makers (photo by Eugene Chystiakov on Unsplash).
 date: 8 May 2024
 image: 
   path: /assets/img/projects/pic_ddm.jpg
@@ -21,16 +21,17 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-How do we interact with our environment and make decisions about the world around us? Empirical research using psychophysical tasks has demonstrated that our perceptual decisions are influenced by past choices, a phenomenon known as the “choice history bias” effect. This decision-making process suggests that the brain adapts to environmental uncertainties based on history.
+*what is the problem?*
+- Past research work showed that our perceptual decisions are influenced by past choices, a phenomenon known as the “choice history bias” effect. However, prevalent across the work on choice history bias is the use of single-subject experiment task design, which limit the implications of these evidence to individual decisions.
 
-However, the use of single-subject experiment task design is prevalent across the work on choice history bias, thus limiting the implications of the empirical evidence to individual decisions. Here, we explore the choice history bias effect using a dual-participant approach, where dyads perform a shared perceptual decision-making task.
+*why is the problem important?*
+- This research is important becuase it includes a social interaction component to the classical experimental designs, which is closer and more realistic to how we make decisions in our every day life. In other words, in reality people are not isolated decision-makers. Rather, people often interact with others and integrate existing information available to us (e.g. looking a maps together, playing double-player badminton match, etc).
 
-We first propose two hypotheses: the participant treats his/her/their partner’s decisions as his/her/their own, or the participant treats his/her/their partner’s decisions differently from his/her/their own. We then use a statistical modeling approach to fit generalized linear models to the choice data in a series of steps. Our modeling results suggest the participant has a choice repetition bias influenced by one’s own decision from two trials ago, compatible with previous single-participant studies. Evidence for a strong dyadic influence is limited though our results indicated a choice alternation bias following both own and partner’s previous response.
+*what is the solution?*
+- We invited people, grouped in dyads (N = 66), to perform a shared perceptual decision-making experiment. In this shared task, each of the two members took turn to give a decision while knowing the other is observing his/her/their choice response. To analyze the data, we used a statistical modeling approach to fit generalized linear models to the choice data in a series of steps.
 
-The findings support that the participant treats his/her/their partner’s decision differently from his/her/their own, in line with the idea that perceptual decision-making is not solely an individualistic decision process.
+*how do the findings address the problem?*
+- The findings support that the participant treats their partner’s decision differently from their own, in line with the idea that perceptual decision-making is not solely an individualistic decision process.
 
 This paper has been submitted to *[Nature Scientific Reports]* and is currently under review for publication.
-
 [Nature Scientific Reports]: https://www.nature.com/srep/
-
-(Photo by Eugene Chystiakov on Unsplash)

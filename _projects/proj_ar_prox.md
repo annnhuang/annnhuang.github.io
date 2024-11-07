@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Proxemics for human-agent interaction in augmented reality'
-caption: Study describes how the personal space occupied by virtual human-like avatars influences our behavior
+caption: A study describing how the personal space occupied by virtual huamns influences users behavior
 description: >
-  Our research findings offer design insights to spatial computing for comfortable user interactions
+  The image shows a participant approaching a virtual human agent to greet and ask for directions to an art exhibit.
 
 date: 29 Apr 2022
 image: 
@@ -22,8 +22,14 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-Photo: Participant approaching a virtual human agent (VHA) to greet and ask for directions to an art exhibit. The experiment showed that participants respected the personal space of the virtual agents and pervasive AR design should thus consider proxemics (image from [paper])
+*what is the problem?*
+- Augmented Reality (AR) embeds virtual content in physical spaces, including virtual agents that are known to exert a social presence on users. However, existing design guidelines for AR rarely consider the social implications of an agent’s personal space (PS) and that it can impact user behavior and arousal.
 
-Augmented Reality (AR) embeds virtual content in physical spaces, including virtual agents that are known to exert a social presence on users. Existing design guidelines for AR rarely consider the social implications of an agent’s personal space (PS) and that it can impact user behavior and arousal. We report an experiment (N=54) where participants interacted with agents in an AR art gallery scenario. When participants approached six virtual agents (i.e., two males, two females, a humanoid robot, and a pillar) to ask for directions, we found that participants respected the agents’ PS and modulated interpersonal distances according to the human-like agents’ perceived gender. When participants were instructed to walk through the agents, we observed heightened skin-conductance levels that indicate physiological arousal. These results are discussed in terms of proxemic theory that result in design recommendations for implementing pervasive AR experiences with virtual agents.
+*why is the problem important?*
+- Knowing how the interpersonal-distances and spaces of the human-like agents conincide with human users is important because it can influence user experience i.e., whether is is comfortable or uncomfortable.
 
-[paper]: https://dl.acm.org/doi/10.1145/3491102.3517593)
+*what is the solution?*
+- We conducted an experiment (N=54) where participants interacted with agents in an AR art gallery scenario.
+
+*how do the findings address the problem?*
+- Our results showed that participants respected the agents’ PS and modulated interpersonal distances according to the human-like agents’ perceived gender. When participants were instructed to walk through the agents, we observed heightened skin-conductance levels that indicate physiological arousal. We discussed these results in terms of proxemic theory that result in design recommendations for implementing pervasive AR experiences with virtual agents.

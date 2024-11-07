@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Enhancing safety in autonomous vehicles'
-caption: A large-scale virtual reality experiment investigating the impact of auditory and visual warning signals on driver behavior and situational awareness
+caption: A large-scale virtual reality study investigating the impact multimodal warning signals on driver behavior in highly automated vehicles
 description: >
-   Our findings showed that different warning signals (auditory vs. visual-auditory) in highly automated vehicles improve driver attention and safety
+   We found that different warning signals (auditory vs. visual-auditory) in highly automated vehicles improve driver attention and safety (photo by XR Expo on Unsplash).
 
 date: 10 September 2024
 image: 
@@ -22,14 +22,15 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-Abstract
+*what is the problem?*
+- Semi-autonomous vehicles (AVs) enable drivers to engage in non-driving tasks but require them to be ready to take control during critical situations. Multimodal signals in AVs aim to deliver take-over requests and facilitate driver–vehicle cooperation. However, the effectiveness of auditory, visual, or combined signals in improving situational awareness and reaction time for safe maneuvering remains unclear.
 
-Semi-autonomous vehicles (AVs) enable drivers to engage in non-driving tasks but require them to be ready to take control during critical situations. This “out-of-the-loop” problem demands a quick transition to active information processing, raising safety concerns and anxiety. Multimodal signals in AVs aim to deliver take-over requests and facilitate driver–vehicle cooperation. However, the effectiveness of auditory, visual, or combined signals in improving situational awareness and reaction time for safe maneuvering remains unclear.
+*why is the problem important?*
+- This research is important because knowing the modalities of the signals and how they influence drivers attention and situational awareness can lead to a safer take-over process. 
 
-This study investigates how signal modalities affect drivers’ behavior using virtual reality (VR).We measured drivers’ reaction times from signal onset to take-over response and gaze dwell time for situational awareness across twelve critical events. Furthermore, we assessed self-reported anxiety and trust levels using the Autonomous Vehicle Acceptance Model questionnaire. The results showed that visual signals significantly reduced reaction times, whereas auditory signals did not. Additionally, any warning signal, together with seeing driving hazards, increased successful maneuvering. 
+*what is the solution?*
+- We measured drivers’ reaction times from signal onset to take-over response and gaze dwell time for situational awareness across twelve critical events in virtual reality. Furthermore, we assessed self-reported anxiety and trust levels using the Autonomous Vehicle Acceptance Model questionnaire.
 
-The analysis of gaze dwell time on driving hazards revealed that audio and visual signals improved situational awareness. Lastly, warning signals reduced anxiety and increased trust. These results highlight the distinct effectiveness of signal modalities in improving driver reaction times, situational awareness, and perceived safety, mitigating the “out-of-the-loop” problem and fostering human–vehicle cooperation.
-
-Keywords: semi-autonomous vehicles; multimodal
-
-(Photo by XR Expo on Unsplash)
+*how do the findings address the problem?*
+- We found that visual signals significantly reduced reaction times, whereas auditory signals did not. Additionally, any warning signal, together with seeing driving hazards, increased successful maneuvering. The analysis of gaze dwell time on driving hazards revealed that audio and visual signals improved situational awareness. Lastly, warning signals reduced anxiety and increased trust.
+- These results highlight the distinct effectiveness of signal modalities in improving driver reaction times, situational awareness, and perceived safety, mitigating the “out-of-the-loop” problem and fostering human–vehicle cooperation.
