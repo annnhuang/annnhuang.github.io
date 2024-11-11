@@ -1,21 +1,17 @@
 ---
 layout: post
-title: Tutorial on physiological recording with Bitalino
+title: Physiological recording using Bitalino
 description: >
-  A tutorial on how to get started with the Bitalino system for physiological recording
+  How to get started with the Bitalino system for physiological recording.
 sitemap: false
 hide_last_modified: true
 ---
- 
-# Electromyography (EMG)
 
-before starting, consult the following references from the [official bitalino website]:
+Here is the [official bitalino website]:
 
 [official bitalino website]: https://www.pluxbiosignals.com/
-
 [emg sensor data sheet]: this document provides a general description of the use of emg, a typical shape of raw emg data, bioelectrical specifications, and a figure of the bipolar electrode placements.
 [opensignals software overview]: this video presents an overview of the main opensignals (r)evolution features and operations.
-
 [emg sensor data sheet]: https://bitalino.com/storage/uploads/media/revolution-emg-sensor-datasheet-1.pdf
 [opensignals software overview:]: https://www.youtube.com/watch?v=jc4bdud1pyo&ab_channel=bitalinoworld
 
@@ -33,9 +29,9 @@ before starting, consult the following references from the [official bitalino we
 miscellaneous additional components
 3d printed casings: the casings for the circuit board and the sensors can ensure the longevity of the components as they protect them from wearing out.  
 
-## method
+## Method
 
-before acquiring signals, please check out the bitalino quickstart guide.
+Before acquiring signals, please check out the bitalino quickstart guide.
 
 step 1. begin by downloading the opensignals software using this [link]. for more information about the software, the software’s data sheet can be found [here].
 
@@ -72,14 +68,13 @@ when you are done, you can click “start the file viewer on the current file”
 
 the data are now stored in your pre-defined location and ready for further processing.
 
-## common issues and troubleshooting
+## Common issues and troubleshooting
 
-bluetooth connection: sometimes, a bluetooth related error message will appear. when this happens, it is most useful to turn off, or even **reset** (by deleting) the bitalino bluetooth connection altogether on your computer’s bluetooth setting and re-start the software by entering the bluetooth password pin once again. see page 185 in the user manual for a comprehensive error list. there is also a guide specifically for bluetooth troubleshooting.
+Bluetooth connection: sometimes, a bluetooth related error message will appear. when this happens, it is most useful to turn off, or even **reset** (by deleting) the bitalino bluetooth connection altogether on your computer’s bluetooth setting and re-start the software by entering the bluetooth password pin once again. see page 185 in the user manual for a comprehensive error list. there is also a guide specifically for bluetooth troubleshooting.
 
-## additional resources
+## Additional resources
 
 [opensignals (r)evolution (v.2019) user manual]\
 [bitalino (r)evolution sensors tour]: this video presents an overview of the default sensor blocks included in every bitalino (r)evolution kit.
-
 [opensignals (r)evolution (v.2019) user manual]: https://bitalino.com/storage/uploads/media/opensignals-manual.pdf
 [bitalino (r)evolution sensors tour]: https://www.youtube.com/watch?v=lofutnegrv4&ab_channel=bitalinoworld
