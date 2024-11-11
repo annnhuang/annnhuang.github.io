@@ -7,11 +7,11 @@ sitemap: false
 hide_last_modified: true
 ---
 
-Here are 5 simple steps to creating your own website using [Hugo], github and netlify in MacOS. This tutorial assumes that you have the following: 1) a [Github account], 2) [Netlify account], and 3) [Git]. Note that this tutorial shows creating a wesbite under a different hugo theme than the current one; however, the logic remains the same.
+Here are 5 simple steps to creating your own website using [Hugo], Github and Netlify on a MacOS. This tutorial assumes that you have or installed the following: 1) a [Github account], 2) [Netlify account], and 3) [Git]. 
 
 ## Step 1 Install necessary dependencies
 
-Open terminal, and follow instructions on the official documentation to install the pacakge manager [homebrew]. once you have sucessfully installed hombrew, type: `brew install hugo` in your terminal.
+Open terminal, and follow instructions on the official documentation to install the pacakge manager [homebrew]. Once you have sucessfully installed hombrew, type: `brew install hugo` in your terminal.
 
 ```
 brew install hugo
@@ -29,13 +29,13 @@ this command generates a static site folder named "anotherblog" inside my home d
 
 ## Step 3 Pick a theme and use it
 
-choose a [hugo theme]. navigate to its github repo by clicking the "download" button. these hugo themes usually come with a readme file that instructs you the best way to install the theme, e.g. using `git clone` or `git submodule add`. the theme i am using is called [mainroad].
+Choose a [Hugo theme]. navigate to its Github repo by clicking the "download" button. These Hugo themes usually come with a readme file that instructs the best way to install the theme, e.g. using `git clone` or `git submodule add`. The theme I am using is called [mainroad].
 
 [mainroad]: https://github.com/vimux/mainroad
 
 ![alternate text](/assets/img/mainroad_page.jpg)
 
-On terminal, navigate to the root directory of the site you've created (e.g. type `cd anotherblog`). once you are inside, copy and paste the link copied from github and install the theme by running `git submodule add [url_to_the_theme]`. for me, it looked like the following:
+Using terminal, navigate to the root directory of the site you've created (e.g. type `cd anotherblog`). once you are inside, copy and paste the link copied from Github and install the theme by running `git submodule add [url_to_the_theme]`. for me, it looked like the following:
 
 ```
 git submodule add https://github.com/vimux/mainroad.git themes/mainroad
@@ -60,7 +60,7 @@ You may create a post or do whatever you’d like to your new site. you could fo
 
 ## Step 4 Link your site to Github
 
-Before committing and pushing the changes to github, create a submodule path in `.gitmodules`. in the home directory of your site, simply click create new file, and name it `.gitmodules`. inside my `.gitmodules` file looks like this:
+Before committing and pushing the changes to Github, create a submodule path in `.gitmodules`. in the home directory of your site, simply click create new file, and name it `.gitmodules`. inside my `.gitmodules` file looks like this:
 
 ```
 [submodule "themes/mainroad"]
@@ -68,15 +68,15 @@ Before committing and pushing the changes to github, create a submodule path in 
     url = https://github.com/vimux/mainroad.git
 ```
 
-this is an important step because it creates a mapping reference to the source repository, which will later allow a successful deployment via netlify. for more information see this [post] on stack overflow.
+This is an important step because it creates a mapping reference to the source repository, which will later allow a successful deployment via Netlify. For more information see this [post] on stack overflow.
 
-go to your github account, and create a repository with a name you want. then follow instructions on github to link the repository to the local folder.
+Go to your Github account, and create a repository with a name you want. then follow instructions on Github to link the repository to the local folder.
 
 ![alternate text](/assets/img/github_creat_repo.jpg)
 ![alternate text](/assets/img/repo_instruct.jpg)
 
 
-essentially, you'd want to push your hugo site to the github repo. below are some quick keys i use to track the changes i've made, commmit them and push them onto the github repo using the `git` command. more tips on how to use git can be found [here].
+Essentially, you'd want to push your hugo site to the Github repo. below are some quick keys i use to track the changes i've made, commmit them and push them onto the Github repo using the `git` command. more tips on how to use git can be found [here].
 
 ```
 git init
@@ -87,9 +87,9 @@ git commit -m “changes made first time”
 git push origin master
 ```
 
-## Step 5 Continuous deployment via netlify
+## Step 5 Continuous deployment via Netlify
 
-Publish your site using netlify by following the simple steps presented on the netlify page. essentially it links the github repos of your hugo site and makes a continuos deployment out of it. everytime you make changes in your code editor, just make sure to always add, commit and push (using `git`) all the changes to the github repo.
+Publish your site using Netlify by following the simple steps presented on the Netlify page. essentially it links the github repos of your hugo site and makes a continuos deployment out of it. everytime you make changes in your code editor, just make sure to always add, commit and push (using `git`) all the changes to the Github repo.
 
 ### Have fun!
 
