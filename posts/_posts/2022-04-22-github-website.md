@@ -1,11 +1,16 @@
 ---
 layout: post
 title: How to build a website using Hugo, Github, and Netlify
+image: 
+  path: /assets/img/blog/code.jpg
 description: >
   How to build your personal website in less than 5 minutes.
 sitemap: false
 hide_last_modified: true
 ---
+
+(Photo by Ilya Pavlov on Unsplash)
+
 
 Here are 5 simple steps to creating your own website using [Hugo], Github and Netlify on a MacOS. This tutorial assumes that you have or installed the following: 1) a [Github account], 2) [Netlify account], and 3) [Git]. 
 
@@ -33,7 +38,7 @@ Choose a [Hugo theme]. navigate to its Github repo by clicking the "download" bu
 
 [mainroad]: https://github.com/vimux/mainroad
 
-![alternate text](/assets/img/mainroad_page.jpg)
+![alternate text](/assets/img/blog/mainroad_page.jpg)
 
 Using terminal, navigate to the root directory of the site you've created (e.g. type `cd anotherblog`). once you are inside, copy and paste the link copied from Github and install the theme by running `git submodule add [url_to_the_theme]`. for me, it looked like the following:
 
@@ -54,7 +59,7 @@ hugo server
 ```
 you should see that the web server is available at //localhost:1313/. copy and paste it into your brower to preview.
 
-![alternate text](/assets/img/hugo_server.jpg)
+![alternate text](/assets/img/blog/hugo_server.jpg)
 
 You may create a post or do whatever you’d like to your new site. you could follow the `examplesite` included in the `themes/mainroad` folder. for example, try copying the `about.md` file and paste it inside the `content` folder underneat `archetypes`. you should see an “about” page on the local web server.
 
@@ -72,8 +77,8 @@ This is an important step because it creates a mapping reference to the source r
 
 Go to your Github account, and create a repository with a name you want. then follow instructions on Github to link the repository to the local folder.
 
-![alternate text](/assets/img/github_creat_repo.jpg)
-![alternate text](/assets/img/repo_instruct.jpg)
+![alternate text](/assets/img/blog/github_creat_repo.jpg)
+![alternate text](/assets/img/blog/repo_instruct.jpg)
 
 
 Essentially, you'd want to push your hugo site to the Github repo. below are some quick keys i use to track the changes i've made, commmit them and push them onto the Github repo using the `git` command. more tips on how to use git can be found [here].
