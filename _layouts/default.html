@@ -1,60 +1,80 @@
----
-# Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+<!DOCTYPE html>
+<html lang="en">
 
-layout: base
----
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <title>{{site.name}} - {{page.title}}</title>
+    <link rel="icon" type="image/png" href={{"assets/favicon.png" | relative_url}}>
+    <link rel="stylesheet" href={{"assets/styles.css" | relative_url}}>
+    {% if site.google_analytics %}
+    {% include analytics.html %}
+    {% endif %}
+</head>
 
-{% assign strings = site.data.strings %}
+<body>
+    <div class="ap-container">
+        <img class="ap-avater" src={{"assets/images/" | append: site.avatar-filename | relative_url}}
+            alt="Avatar for {{site.name}}">
+        <h1 class="ap-title">{{site.name}}</h1>
+        <h3 class="ap-tagline">{{site.tagline}}</h3>
+        <div class="ap-social-header">
+            <ul>
+                {% if site.social['email']['visibility'] == true %}<li><a
+                        href="mailto:{{site.social['email']['mail']}}">Email</a></li>{% endif %}
+                {% if site.social['linkedin']['visibility'] == true %}<li><a
+                        href="https://linkedin.com/in/{{site.social['linkedin']['handle']}}"
+                        target="_blank">LinkedIn</a></li>{% endif %}
+                {% if site.social['github']['visibility'] == true %}<li><a
+                        href="https://github.com/{{site.social['github']['handle']}}" target="_blank">GitHub</a></li>{%
+                endif %}
+                {% if site.social['twitter']['visibility'] == true %}<li><a
+                        href="https://twitter.com/{{site.social['twitter']['handle']}}" target="_blank">Twitter</a></li>
+                {% endif %}
+            </ul>
+        </div>
+        <nav class="ap-nav">
+            <ul>
+                {% for item in site.navigation %}
+                <li><a href={{item.url | relative_url}}
+                        class="{% if item.url == page.url %}ap-active{% endif %}">{{item.title}}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
 
-<article class="page" role="article">
-  <header>
-    <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
-    {% include components/message.html text=page.description hide=page.hide_description %}
-    <!-- Include Dark Mode Template -->
-    {% include templates/pro/dark-mode.html %}
-  </header>
+        <div class="ap-line"></div>
 
-  {{ content }}
+        <div class="ap-content">
+            {{content}}
+        </div>
 
-  <hr class="dingbat related"/>
+        <div class="ap-line"></div>
+        <!-- FOOTER -->
+        <div class="ap-footer">
+            <div class="ap-social">
+                <ul>
+                    {% if site.social['email']['visibility'] == true %}<li><a
+                            href="mailto:{{site.social['email']['mail']}}">Email</a></li>{% endif %}
+                    {% if site.social['linkedin']['visibility'] == true %}<li><a
+                            href="https://linkedin.com/in/{{site.social['linkedin']['handle']}}"
+                            target="_blank">LinkedIn</a></li>{% endif %}
+                    {% if site.social['github']['visibility'] == true %}<li><a
+                            href="https://github.com/{{site.social['github']['handle']}}" target="_blank">GitHub</a>
+                    </li>{% endif %}
+                    {% if site.social['twitter']['visibility'] == true %}<li><a
+                            href="https://twitter.com/{{site.social['twitter']['handle']}}" target="_blank">Twitter</a>
+                    </li>{% endif %}
+                </ul>
+            </div>
+            <div class="ap-copyright">&copy Copyright 2024</div>
+        </div>
+    </div>
 
-  {% if site.posts.size > 0 %}
-    <h2 class="hr-bottom">{{ strings.posts | default:"Posts" }}</h2>
-    <ul class="related-posts">
-      {% for post in site.posts limit:5 %}
-        {% include_cached components/post-list-item.html post=post %}
-      {% endfor %}
-    </ul>
-  {% endif %}
 
-  {% assign pages = site.html_pages | where:"layout","page" | where_exp:"page","page.sitemap != false" %}
-  {% if pages.size > 0 %}
-    <h2 class="hr-bottom">{{ strings.pages | default:"Pages" }}</h2>
-    <ul class="related-posts">
-      {% for page in pages limit:5 %}
-        {% if page.layout == 'page' %}
-          <li class="h4">
-            <a href="{{ page.url | relative_url }}" class="flip-title">
-              <span>{{ page.title }}</span>
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endif %}
-</article>
+</body>
 
-<script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script>
+</html>
