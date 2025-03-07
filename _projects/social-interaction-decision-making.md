@@ -14,7 +14,7 @@ comments: false
 <img src="/assets/images/joint-task-2.jpg" alt="alternate text" width="700" height="270">
 
 ### Project Overview
-This project was part of my main PhD research work. We designed an adaptive joint perceptual decision-making task that allowed a mean performance at about 73%. After the final iteration, we collected data from 78 individuals grouped in 39 pairs, and analyzed the results using a stepwise logistic regression procedure
+This project was part of my main PhD research work in Osnabrück. We designed an adaptive joint perceptual decision-making task that allowed a mean performance at about 73%. After the final iteration, we collected data from 78 individuals grouped in 39 pairs, and analyzed the results using a stepwise logistic regression procedure
 
 ### Team
 - Lead researcher (me)
@@ -27,8 +27,4 @@ This project was part of my main PhD research work. We designed an adaptive join
 
 ### Deliverables
 - Final prototype and design of the experiment task
-- Academic publication in a high-impact journal
-
-### Publication
-
-Under review in [Nature Scientific Reports](https://www.researchsquare.com/article/rs-4375984/v1)
+- Academic publication in a high-impact journal: Under review in [Nature Scientific Reports](https://www.researchsquare.com/article/rs-4375984/v1)
