@@ -1,7 +1,7 @@
 ---
 title: Social interaction in decision-making
 layout: project
-year: 2023
+#year: 2024
 #project-url: https://www.researchsquare.com/article/rs-4375984/v1
 excerpt: Investigation of the impact of social interaction in influencing choice behavior using a dyadic perceptual task & quantitative methods
 #project-image: https://placehold.co/400
