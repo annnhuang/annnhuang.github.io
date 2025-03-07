@@ -7,7 +7,7 @@ excerpt: Examining users perception and interaction behaviors with virtual and a
 comments: false
 ---
 
-## Measure users proxemics behaviors for designing a comfortable human-agent interaction in AR
+## Measuring users proxemics behaviors for designing a comfortable human-agent interaction in AR
 
 <img src="/assets/images/proxemics-ar.jpg" alt="alternate text" width="300" height="300">
 
@@ -25,7 +25,7 @@ This project was part of my intership at the Human-Cetnered Ubiquitous Computing
 - We developed an AR application in which users interact with six virtual agents in an art gallery context. I collected data of 54 users, conducted statistical analyses on the recorded interpersonal distances and physiolgoical data
 
 ### Deliverables
-- Academic publication in [ACM CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/10.1145/3491102.3517593)
+- Academic publication in [ACM CHI](https://dl.acm.org/doi/10.1145/3491102.3517593)
 
 ## Investigating user's proxemics behaviors towards different social configurations in VR
 
