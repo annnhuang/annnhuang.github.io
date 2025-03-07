@@ -1,9 +1,13 @@
 name: Ann Huang
 tagline: Cognitive Science x Human-Computer Interaction
-career-objective: SITE UNDER CONSTRUCTION
+career-objective: |
+  Mixed-methods researcher with 4,5+ years experience designing and executing collaborative, human-centered projects end to end.
+  I am finishing my Ph.D. (Dr. rer. nat.) at the Univeristy of Osnabrück [Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/startseite.html) where I investigated how interactions with people and systems improve design.
+  My expertise lies in uncovering factors that influence people’s perception and decision-making. I love to collaborate with interdicplinary teams to improve user experiences with data-driven insights.
+
 color-theme: red # red or blue
 avatar-filename: avatar.png # Change to your avatar's filename
-url: academicportfolio.github.io
+url: annnhuang.github.io
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -60,7 +64,7 @@ collection_option:
     visibility: false
   projects: 
     label: Projects
-    visibility: false
+    visibility: true
   skills: 
     label: Technical Skills
     visibility: false

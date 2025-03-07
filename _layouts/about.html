@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="ap-career-objective">
-    {{site.career-objective}}
+    {{ site.career-objective | markdownify }}
 </div>
 
 {% if site.collection_option['experience']['visibility'] == true %}

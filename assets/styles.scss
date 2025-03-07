@@ -57,6 +57,11 @@ a:hover {
     margin-bottom: 8px;
 }
 
+.ap-tagline a {
+    color: #f0b16e !important; /* Match the tagline text color */
+    text-decoration: none; /* Optional */
+}
+
 .ap-nav ul {
     margin: 0;
     padding: 0;
@@ -448,6 +453,15 @@ a:hover {
     font-family: "Inter", serif;
     font-size: 14px;
     color: #999999;
+}
+
+.ap-blog-post p a, .ap-blog-post li a {
+    color: #007acc; /* Change this to your desired color */
+    text-decoration: none; /* Optional: removes underline */
+}
+
+.ap-blog-post p a:hover, .ap-blog-post li a:hover {
+    color: #005b99; /* Optional: change color on hover */
 }
 
 .ap-blog-post {
