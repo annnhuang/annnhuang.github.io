@@ -9,7 +9,7 @@ comments: false
 
 ## Measure users proxemics behaviors for designing a comfortable human-agent interaction in AR
 
-<img src="/assets/images/proxemics-ar.jpg" alt="alternate text" width="300" height="300">
+<img src="/assets/images/proxemics-ar.jpg" alt="alternate text" width="400" height="280">
 
 ### Project Overview
 This project was part of my intership at the Human-Cetnered Ubiquitous Computing Lab at LMU Munich
@@ -25,8 +25,7 @@ This project was part of my intership at the Human-Cetnered Ubiquitous Computing
 - We developed an AR application in which users interact with six virtual agents in an art gallery context. I collected data of 54 users, conducted statistical analyses on the recorded interpersonal distances and physiolgoical data
 
 ### Deliverables
-- Academic publication in a high-impact journal
-- [ACM CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/10.1145/3491102.3517593)
+- Academic publication in [ACM CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/10.1145/3491102.3517593)
 
 ## Investigating user's proxemics behaviors towards different social configurations in VR
 
@@ -46,11 +45,11 @@ This was a side project part of my PhD work in Osnabrück.
 - We designed the study, collected data of 59 users, conducted statistical analyses on the recorded interpersonal distances and eye tracking data
 
 ### Deliverables
-- Academic publication in a high-impact journal: Accepted in [Virtual Reality](https://www.researchsquare.com/article/rs-4342429/v1)
+- Academic publication: Accepted in [Virtual Reality](https://www.researchsquare.com/article/rs-4342429/v1)
 
 ## Peceptual processing in human-vehicle interaction in VR
 
-<img src="/assets/images/driver-vr.jpg" alt="alternate text" width="410" height="300">
+<img src="/assets/images/driver-vr.jpg" alt="alternate text" width="420" height="280">
 
 ### Project Overview
 This project was part of my PhD research in Osnabrück.
@@ -64,4 +63,4 @@ This project was part of my PhD research in Osnabrück.
 - The aim of the project was to investigate the impact of three different warning signal modalities (audio, visual, audio-visual) on driver's take-over beahvior in handling semi-automated vehicles
 
 ### Deliverables
-- Academic publication: [Vehicles](https://www.mdpi.com/2624-8921/6/3/76)
+- Academic publication in [Vehicles](https://www.mdpi.com/2624-8921/6/3/76)
