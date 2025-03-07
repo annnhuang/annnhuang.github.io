@@ -64,7 +64,7 @@ collection_option:
     visibility: false
   projects: 
     label: Projects
-    visibility: true
+    visibility: false
   skills: 
     label: Technical Skills
     visibility: false
