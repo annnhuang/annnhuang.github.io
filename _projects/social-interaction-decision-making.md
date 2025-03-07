@@ -11,7 +11,7 @@ comments: false
 
 ## Design a joint perceptual task to investigate choice history biases in dyadic decision-making
 
-<img src="/assets/images/joint-task-2.jpg" alt="alternate text" width="700" height="270">
+<img src="/assets/images/joint-task-2.jpg" alt="alternate text" width="530" height="200">
 
 ### Project Overview
 This project was part of my main PhD research work in Osnabrück. We designed an adaptive joint perceptual decision-making task that allowed a mean performance at about 73%. After the final iteration, we collected data from 78 individuals grouped in 39 pairs, and analyzed the results using a stepwise logistic regression procedure

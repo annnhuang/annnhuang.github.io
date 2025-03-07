@@ -9,7 +9,7 @@ comments: false
 
 ## Measure users proxemics behaviors for designing a comfortable human-agent interaction in AR
 
-<img src="/assets/images/proxemics-ar.jpg" alt="alternate text" width="400" height="280">
+<img src="/assets/images/proxemics-ar.jpg" alt="alternate text" width="300" height="300">
 
 ### Project Overview
 This project was part of my intership at the Human-Cetnered Ubiquitous Computing Lab at LMU Munich
@@ -32,7 +32,7 @@ This project was part of my intership at the Human-Cetnered Ubiquitous Computing
 <img src="/assets/images/proxemics-vr.jpg" alt="alternate text" width="410" height="300">
 
 ### Project Overview
-This was a side project part of my PhD work in Osnabrück.
+This project was part of my PhD research in Osnabrück
 
 ### Role
 - Collaborating researcher (me)
