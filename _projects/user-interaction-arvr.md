@@ -1,8 +1,8 @@
 ---
-title: User interaction in virtual and augmented reality
+title: Embodied user interaction in virtual and augmented reality
 layout: project
 year: 2020~2023
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+excerpt: Examining users perception and interaction behaviors with virtual and augmented interfaces
 #tags: [HTML, CSS, JavaScript]
 comments: false
 ---
