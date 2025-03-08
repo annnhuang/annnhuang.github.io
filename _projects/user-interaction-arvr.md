@@ -7,6 +7,12 @@ excerpt: Examining users perception and interaction behaviors with virtual and a
 comments: false
 ---
 
+Embodied cognition is a theory which posits that our cognition is understood from our bodily interactions with the enviornment. This interaction extends beyond the human-human interaction to include interaction with tools and systems.
+
+Human-like avatars, by virtue of them being human-like, are natural and intuitive interfaces for human users. Simulating virtual humans thus renders the environment fundamentally social.
+
+As these interfaces become increasingly common (e.g. Metaverse, Microsoft Mesh), ongoing research is needed to understand their impact on our perception and behavior for improving the user experience, including safe interaction distances.
+
 ## Measuring users proxemics behaviors for designing a comfortable human-agent interaction in AR
 
 <img src="/assets/images/proxemics-ar.jpg" alt="alternate text" width="300" height="300">
