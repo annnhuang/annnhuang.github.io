@@ -2,7 +2,7 @@
 ---
 {% if site.color-theme == "blue" %}
 $link: #0099ff;
-{% elsif site.color-theme == "red" %}
+{% elsif site.color-theme == "red" %} /* thinking to change the link colors..*/
 $link: #862B0D;
 {% endif %}
 
@@ -100,11 +100,12 @@ a:hover {
 }
 
 .ap-content a {
-    text-decoration: none;
-    color: #ff0000;
+    text-decoration: none; /* I changed the colors to match my portfolio*/
+    color: darkorange;
 }
 
 .ap-content a:hover {
+    color: darkorange; /* I changed the colors to match my portfolio*/
     text-decoration: underline;
 }
 
