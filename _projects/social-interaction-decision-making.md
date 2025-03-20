@@ -9,6 +9,8 @@ excerpt: Investigation of the impact of social interaction in influencing choice
 comments: false
 ---
 
+### hello world
+
 ## Design a joint perceptual task to investigate choice history biases in dyadic decision-making
 
 <img src="/assets/images/joint-task-2.jpg" alt="alternate text" width="530" height="200">
