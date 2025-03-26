@@ -99,6 +99,20 @@ a:hover {
     line-height: 1.6em;
 }
 
+/* I added this to ensure proper indentation for lists */
+.ap-content ul, .ap-content ol {
+    margin-left: 20px; /* Adjust as needed */
+    padding-left: 20px;
+}
+
+.ap-content ul {
+    list-style-type: disc; /* Ensures bullets are visible */
+}
+
+.ap-content ol {
+    list-style-type: decimal;
+}
+
 .ap-content a {
     text-decoration: none; /* I changed the colors to match my portfolio*/
     color: #E9762B;
