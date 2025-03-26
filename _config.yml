@@ -125,7 +125,7 @@ disqus:
 
 # Contact Form
 formspree:
-  endpoint: https://formspree.io/f/xdorkgkv # Change with your own form's endpoint
+  endpoint: https://formspree.io/f/xkgjzdwo # Change with your own form's endpoint
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
