@@ -29,4 +29,4 @@ This project was part of my main PhD research work in Osnabrück. We designed an
 
 ### Deliverables
 - Final prototype and design of the experiment task
-- Academic publication in a high-impact journal: Under review in [Nature Scientific Reports](https://www.researchsquare.com/article/rs-4375984/v1)
+- Academic publication in a high-impact journal: Accepted for Publication in [Nature Scientific Reports](https://www.researchsquare.com/article/rs-4375984/v1)

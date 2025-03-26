@@ -51,7 +51,7 @@ This project was part of my PhD research in Osnabrück
 - We designed the study, collected data of 59 users, conducted statistical analyses on the recorded interpersonal distances and eye tracking data
 
 ### Deliverables
-- Academic publication: Accepted in [Virtual Reality](https://www.researchsquare.com/article/rs-4342429/v1)
+- Academic publication: Published in [Virtual Reality](https://link.springer.com/article/10.1007/s10055-025-01127-y)
 
 ## Peceptual processing in human-vehicle interaction in VR
 
