@@ -9,8 +9,6 @@ excerpt: Investigation of the impact of social interaction in influencing choice
 comments: false
 ---
 
-### hello world
-
 ## Design a joint perceptual task to investigate choice history biases in dyadic decision-making
 
 <img src="/assets/images/joint-task-2.jpg" alt="alternate text" width="530" height="200">
@@ -29,4 +27,4 @@ This project was part of my main PhD research work in Osnabrück. We designed an
 
 ### Deliverables
 - Final prototype and design of the experiment task
-- Academic publication in a high-impact journal: Accepted for Publication in [Nature Scientific Reports](https://www.researchsquare.com/article/rs-4375984/v1)
+- Academic publication in a high-impact journal: Accepted for Publication in [Nature Scientific Reports](https://rdcu.be/egmfc)
