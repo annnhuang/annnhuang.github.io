@@ -1,130 +1,71 @@
-name: Ann Huang
-tagline: Cognitive Science x HCI
-career-objective: |
-  Hey there 👋🏼 Thanks for dropping by. I am a PhD student at the Univeristy of Osnabrück [Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/startseite.html). Previously I was a research assistant at the [LMU Munich Media Informatics Group](https://www.medien.ifi.lmu.de/index.xhtml.en).
-  My research focuses on uncovering factors that influence *perception* and *decision-making*. Specifically, I investigate how interactions with people and systems improve socio-cognitive based design.
+###########
+# site.title
 
-color-theme: red # red or blue
-avatar-filename: avatar.png # Change to your avatar's filename
-url: annnhuang.github.io
-baseurl: ""
-paginate: 5
-paginate_path: "/blog/page:num/"
+title: ann huang
+description: a minimal, text focused blog theme
+# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
+url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
+# host: 0.0.0.0
 
-# Social Information
-social:
-  email: 
-    visibility: true
-    mail: ann.huang@uni-osnabrueck.de
-  github: 
-    visibility: false
-    handle: annnhuang
-  linkedin: 
-    visibility: true
-    handle: ann-huang9419
-  twitter: 
-    visibility: false
-    handle: annnhuang
 
-# Collections
+#########################
+# more settings
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+markdown: kramdown
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
+
+# sass:
+#   sass_dir: css
+#   style:    compressed
+
 collections:
-  experience:
-    output: false
-    sort_by: order
-  education:
-    output: false
-    sort_by: order
+  my_tags:
+    output: true
+    permalink: /tagged/:slug/
   projects:
     output: true
-    sort_by: year
-  skills:
-    output: false
-    sort_by: order
-  publications:
-    output: true
-    sort_by: year
-  volunteerexperience:
-    output: false
-    sort_by: order
-  certifications:
-    output: false
-    sort_by: year
-  achievements:
-    output: false
-    sort_by: year
+    permalink: /projects/:title/
+    
+defaults:
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: tagged
 
-# About Page Options
-collection_option:
-  experience: 
-    label: Experience
-    visibility: false
-  education: 
-    label: Education
-    visibility: false
-  projects: 
-    label: Projects
-    visibility: true
-  skills: 
-    label: Technical Skills
-    visibility: false
-  publications: 
-    label: Publications
-    visibility: false
-  volunteerexperience: 
-    label: Volunteer Experience
-    visibility: false
-  certifications: 
-    label: Certifications
-    visibility: false
-  achievements: 
-    label: Achievements
-    visibility: false
-
-navigation:
-- title: About
-  url: /
-- title: Blog
-  url: /blog/
-- title: Contact
-  url: /contact
-
-include:
-  - _pages
+# baseurl: ""
+permalink: /blog/:slug
+timezone: America/New_York
+future: false
 
 exclude:
-  - readme.md
+- README.md
+- LICENSE.md
 
-# Defaults
-defaults:
-  - scope:
-      path: ''
-      type: posts
-    values:
-      permalink: /:categories/:year/:month/:title
-      layout: post
-      comments: true
-  - scope:
-      path: ''
-      type: projects
-    values:
-      permalink: /projects/:title
-      layout: project
-      comments: false
-  - scope:
-      path: ''
-      type: publications
-    values:
-      permalink: /publications/:title
-      layout: publication
-      comments: false
+exclude: [vendor]
 
-# Disqus Comment
-disqus:
-  shortname: academic-portfolio # Change with your own disqus shortname
+Blog: /blog
 
-# Contact Form
-formspree:
-  endpoint: https://formspree.io/f/xkgjzdwo # Change with your own form's endpoint
+# Add general links to site pages here
+links:
+  Projects: /projects/
+  # Resume: /assets/resume.pdf
 
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+# Add links for more focus here
+special_links:
+  # "Search": https://duckduckgo.com
