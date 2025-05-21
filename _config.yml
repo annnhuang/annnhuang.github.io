@@ -39,7 +39,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
-    
+
 defaults:
   -
     scope:
@@ -59,10 +59,10 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
-
 # Add general links to site pages here
 links:
+  Now: /Now/
+  Blog: /blog/
   Projects: /projects/
   # Resume: /assets/resume.pdf
 
