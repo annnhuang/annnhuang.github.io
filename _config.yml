@@ -1,13 +1,11 @@
 ###########
 # site.title
 
-title: ann huang
+title: annhuang
 description: a minimal, text focused blog theme
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
+url: "https://annnhuang.github.io/" # the base hostname & protocol for your site
 # host: 0.0.0.0
-
-
 #########################
 # more settings
 
@@ -50,7 +48,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: Europe/Amsterdam
 future: false
 
 exclude:
@@ -61,7 +59,7 @@ exclude: [vendor]
 
 # Add general links to site pages here
 links:
-  Now: /Now/
+  Now: /now/
   Blog: /blog/
   Projects: /projects/
   # Resume: /assets/resume.pdf

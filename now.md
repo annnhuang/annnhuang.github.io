@@ -4,16 +4,20 @@ title: Now
 permalink: /now/
 ---
 
-## What I'm doing now
+## What I'm doing right now
 
-This is a “now page,” inspired by [Derek Sivers](https://nownownow.com/about).
+<details>
+  <summary> btw I love this idea of a now page.</summary>
+  inspired by <a href="https://nownownow.com/about">Derek Sivers</a>.
+</details>
 
-Write a few paragraphs about what you're currently focused on — professionally, personally, creatively, or otherwise.
+I am currently very deep in the job hunting process. My days have been filled with ups and downs.
 
-Here are some ideas:
+It's easy to forget that there is life outside of job hunting.
+
+Some snippets of life divided into four buckets:
+
 - 📚 Reading: *Book Title*
 - 🛠 Working on: this blog, a new app, etc.
 - 💡 Exploring: design systems, data storytelling, etc.
 - 🌱 Growing: trying to be more present offline
-
-> Updated: May 2025

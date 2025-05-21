@@ -3,22 +3,19 @@ layout: default
 title: Hello
 ---
 
+## Hi I'm Ann Huang.
 
-## An easy to use, minimal, text focused Jekyll theme
+### I write, travel, take photos, make things, and conduct research on topics I find interesting.
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+**ooh and did I mention I really love cats and dogs?**
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+I am a proud mama of two british shorthairs who are angels by night, devils by early morning, a courageous orange tabby and a super extroverted but insecure 1 year-old mountain dog.
 
-**Stop worrying about the style, focus on your writing.**
+![My Image](/assets/images/11.jpg){:height="400px" width="300px"}
+![My Image](/assets/images/7.jpg){:height="400px" width="300px"}
+![My Image](/assets/images/yellow.jpg){:height="300px" width="450px"}
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+I was born and raised in a small farm village in Taiwan🧋. I grew up with lots of animals. I spent my high school and uni days in the USA 🏈. \\
+Currently I live in [Leiden](https://www.youtube.com/watch?v=o-on65yp46M&ab_channel=fujixann), Netherlands🌷, a cozy city ~35 min south of Amsterdam. Prior to that I was in [Osnabrück](https://www.youtube.com/watch?v=C43vPcFyuEA&ab_channel=fujixann) and Munich, Germany 🍻.
 
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+I am soon completing my PhD at the [Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/home.html), and exploring new opportunities in the NL.
