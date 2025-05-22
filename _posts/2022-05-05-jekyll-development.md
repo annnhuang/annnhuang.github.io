@@ -6,7 +6,7 @@ date:   2022-05-05
 tags: [general]
 ---
 
-Here are 7 steps to create a website using Jekyll and host it using Github Pages.
+Here are 10 steps to create a website using Jekyll and host it using Github Pages.
 
 ## 1. Download and install the necessary dependencies:
 
@@ -21,7 +21,7 @@ Here are 7 steps to create a website using Jekyll and host it using Github Pages
 (b) [Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) (a development tool that combines JavaScript code files into a single one that is production-ready loadable in the browser)
 
 ```
-gem install bundler
+> gem install bundler
 ```
 
 (c) Jekyll (The static site generator)
@@ -29,7 +29,7 @@ gem install bundler
 Install Jekyll using Bundler:
 
 ```
-gem install jekyll
+> gem install jekyll
 ```
 (d) [Git](https://git-scm.com/downloads) (for version control and pushing to GitHub)
 
@@ -49,7 +49,7 @@ gem install jekyll
 - Navigate to your project folder, and type in the terminal:
 
 ```
-bundle exec jekyll serve
+> bundle exec jekyll serve
 ```
 
 - Copy the localhost URL (e.g., http://127.0.0.1:4000) and paste it into your browser to preview your site.
@@ -65,7 +65,7 @@ bundle exec jekyll serve
 - Open the terminal inside your Jekyll project folder and run:
 
 ```
-git init
+> git init
 ```
 
 - This initializes Git in your project.
@@ -73,23 +73,21 @@ git init
 (c) Connect your local project to GitHub
 
 ```
-git remote add origin https://github.com/your-github-account-name/your-repo-name.git
+> git remote add origin https://github.com/your-github-account-name/your-repo-name.git
 ```
 
 (d) Add and commit the Files
 
-
 ```
-git add . 
-
-git commit -m "Initial commit - Jekyll site"
+> git add . 
+> git commit -m "Initial commit - Jekyll site"
 ```
 
 (e) Push the project to GitHub (it’s either the main branch or the master branch)
 
 ```
-git branch -M main
-git push -u origin main
+> git branch -M main
+> git push -u origin main
 ```
 
 ## 8. Enable GitHub Pages
@@ -104,15 +102,15 @@ git push -u origin main
 (a) If your theme has extra dependencies, install them with:
 
 ```
-bundle install
+> bundle install
 ```
 
 (b) To update your site, modify the files, commit changes, and push them to GitHub:
 
 ```
-git add .
-git commit -m "Update site"
-git push origin main
+> git add .
+> git commit -m "Update site"
+> git push origin main
 ```
 
 ## 10. Happy blogging!
