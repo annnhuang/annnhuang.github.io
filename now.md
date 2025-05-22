@@ -11,13 +11,19 @@ permalink: /now/
   inspired by <a href="https://nownownow.com/about">Derek Sivers</a>.
 </details>
 
-I am currently very deep in the job hunting process. My days have been filled with ups and downs.
+Earlier this year, I was with my family in Bangkok. Love that city, and would kill for a deep travel through southeast Asia. Some places on my mind:
 
-It's easy to forget that there is life outside of job hunting.
+- Luang Prabang, Laos
+- Vientiane, Laos
+- Phuket, Thailand
+- Chiang Mai, Thailand
 
-Some snippets of life divided into four buckets:
+<img src="/assets/images/bangkok.jpg" alt="alternate text" width="500" height="350">
+<img src="/assets/images/bangkok-2.jpg" alt="alternate text" width="500" height="350">
 
-- 📚 Reading: *Book Title*
-- 🛠 Working on: this blog, a new app, etc.
-- 💡 Exploring: design systems, data storytelling, etc.
-- 🌱 Growing: trying to be more present offline
+I am currently very deep into the job hunting process. My days have been filled with, at times, extreme ups and downs. I'm trying to be indfferent and objective but it's difficult to have zero emotions. If you've been through or are going through job hunting you probably can relate.
+
+- 📚 Reading: Any book recommendations?
+- 🛠 Working on: Revising my CV, resume, preparing for my PhD defence
+- 💡 Exploring: consulting as a career, data storytelling
+- 🌱 Growing: trying to not take rejections personally, believing that a right opportunity will eventually come

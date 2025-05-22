@@ -18,27 +18,27 @@ But these studies have traditionally focused on one person only. By doing this, 
 
 And this is what my project is all about. I included the element of social interaction in this classical experiment to better understand perception and behavior. In other words, I extended this individual setup to a dyadic one, to see how, given what we already know about choice history bias, whether observing your dyadic partner chooses would in turn influence what you choose and vice versa.
 
-<img src="/assets/images/dyadic-task.jpg" alt="alternate text" width="630" height="300">
+<img src="/assets/images/dyadic-task.jpg" alt="alternate text" width="630" height="250">
 
 This experimental methodology we designed in the research domain of choice history and decision-making is new, however the concept is not so new. The idea goes back to what's called the [embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition), which suggests that how we think and behave are shaped by bodily interactions. For example, when you look at where your friend is looking at, you might develop some understanding about what your friend intends to do. Or you smile back when a stranger smiles at you.
 
 Basically our behavior emerges from our real-time interactions with the surrounding environment. **It's kind of radical to think about our brain and cognition in this way, because it has not always been that way.** Rather it's this [idea](https://plato.stanford.edu/archIves/win2013/entries/embodied-cognition/) that our brain generates behaviors, or our brain is separated from our body, that has traditionally dominated the thinking.
 
-## Results, impact and takeaways
+## Results and impact
 
 So what we did was we created a joint perceptual task and collected behavioral data from people grouped in dyads. **Our results indicated that people do not ignore other’s choices when they make decisions.**
 
 A research study like this almost never brings immediate changes to the society or world at large in ways that you can see with your own eyes. I mean, even if there's merit to our results, it's not like in real life we're bombarded with similar visual information every second.
 
-However, I'd be doing a disservice to myself to think that all the sweat, pain and tears that go into the study were not worthwhile. Some impact I see this study brings to the academic community are as follow:
+However, I'd be doing a disservice to myself to think that all the sweat, pain and tears that go into the study were not worthwhile. Some impact I see this study brings to the academic community are as follows:
 
-- The joint design allows for a systematic comparison with the findings on choice history bias from those of the single-participant designs. Moreover, this method is generalizable across various contexts and populations e.g, Human-AI interaction. Since humans treat [computers as social actors](https://dl.acm.org/doi/10.1145/191666.191703), what if, say, Siri consistently reports to you the wrong information, does that change the way you trust or interact with it?
+- The joint design allows for a systematic comparison with the findings on choice history bias from those of the single-participant designs. Moreover, this method is generalizable across various contexts and populations e.g, Human-AI interaction. Since humans treat [computers as social actors](https://dl.acm.org/doi/10.1145/191666.191703), what if, say, a virtual assistant consistently reports to you the wrong information, does that change the way you trust or interact with it?
 
-- We were the first to document the influence of social interaction in influencing the choice history bias effect! That said, the implications extend to other scnearios. Going off tangent here, but I wonder how often this choice bias effect is seen in political groups. People are on divisive grounds probably because they are locked in an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media)#:~:text=An%20echo%20chamber%20is%20%22an,reverberate%20in%20a%20hollow%20enclosure.) that breeds biases.
+- We were the first to document the influence of social interaction in influencing the choice history bias effect! That said, the implications extend to other scnearios. Going off tangent here, but I wonder how often this choice bias effect is seen in political groups. People are divisive perhaps because they are locked in an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media)#:~:text=An%20echo%20chamber%20is%20%22an,reverberate%20in%20a%20hollow%20enclosure.) that breeds biases.
 
 - Publication in [Nature Scientific Reports](https://www.nature.com/articles/s41598-025-96182-5). Hey, might get included in the textbooks one day, right? You never know.
 
-### Takeaways
+## Takeaways
 
 - Multiple iterations is always needed until the task is fully functional and replicable-  being able to handle deep frustrations is part of the process.
 

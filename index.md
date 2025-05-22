@@ -15,8 +15,8 @@ I am a proud mama of two british shorthairs that are angels by night, devils by 
 ![My Image](/assets/images/7.jpg){:height="400px" width="300px"}
 ![My Image](/assets/images/yellow.jpg){:height="300px" width="450px"}
 
-I was born and raised in a small village filled with <a href="/assets/images/rice-paddy.jpg" target="_blank">rice paddy fields</a> in Taiwan🧋- one of the most beautiful places on earth in my opinion. What I miss most are
-- the lush, massive <a href="/assets/images/mountain-ranges.jpg" target="_blank">mountain ranges</a> as backdrops (>3,000m)
+I was born and raised in a small village filled with <a href="/assets/images/rice-paddy.jpg" target="_blank">rice paddy fields</a> in Taiwan🧋- one of the most beautiful places on earth in my opinion. What I miss most are:
+- the lush, massive 3,000m <a href="/assets/images/mountain-ranges.jpg" target="_blank">mountain ranges</a> backdrops
 - being surrounded by the deep <a href="/assets/images/ocean-blue.jpg" target="_blank">blueness</a> of the <a href="/assets/images/pacific.jpg" target="_blank">Pacific</a>
 - the heavy downpours ([sounds like this](https://www.youtube.com/watch?v=zkFcANp-eLo&ab_channel=INDOVILLAGE))
 - the [sounds of cicada](https://www.youtube.com/watch?v=xj7ylgj2JlQ&ab_channel=CatTrumpet) that brings back fond memories of summer season
