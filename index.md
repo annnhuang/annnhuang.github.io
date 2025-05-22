@@ -9,7 +9,7 @@ title: Hello
 
 **ooh and did I mention I really love cats and dogs?**
 
-I am a proud mama of two british shorthairs who are angels by night, devils by early morning, a courageous orange tabby and a super extroverted but insecure 1 year-old mountain dog.
+I am a proud mama of two british shorthairs that are angels by night, devils by early morning, a courageous orange tabby and a super extroverted but insecure 1 year-old mountain dog.
 
 ![My Image](/assets/images/11.jpg){:height="400px" width="300px"}
 ![My Image](/assets/images/7.jpg){:height="400px" width="300px"}

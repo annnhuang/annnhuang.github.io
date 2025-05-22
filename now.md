@@ -7,7 +7,7 @@ permalink: /now/
 ## What I'm doing right now
 
 <details>
-  <summary> btw I love this idea of a now page.</summary>
+  <summary> really like this idea of a now page.</summary>
   inspired by <a href="https://nownownow.com/about">Derek Sivers</a>.
 </details>
 
