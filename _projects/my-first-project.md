@@ -33,11 +33,11 @@ A research study like this almost never brings immediate changes to the society 
 
 However, I'd be doing a disservice to myself to think that all the sweat, pain and tears that go into the study were not worthwhile. Some impact I see this study brings to the academic community are as follow:
 
--  The joint design allows for a systematic comparison with the findings on choice history bias from those of the single-participant designs. Moreover, this method is generalizable across various contexts and populations e.g, Human-AI interaction. Since humans treat [computers as social actors](https://dl.acm.org/doi/10.1145/191666.191703), what if, say, Siri consistently reports to you the wrong information, does that change the way you trust or interact with it?
+- The joint design allows for a systematic comparison with the findings on choice history bias from those of the single-participant designs. Moreover, this method is generalizable across various contexts and populations e.g, Human-AI interaction. Since humans treat [computers as social actors](https://dl.acm.org/doi/10.1145/191666.191703), what if, say, Siri consistently reports to you the wrong information, does that change the way you trust or interact with it?
 
-- We were the first to document the influence of social interaction in influencing the choice history bias effect!
+- We were the first to document the influence of social interaction in influencing the choice history bias effect! That said, the implications extend to other scnearios. Going off tangent here, but I wonder how often this choice bias effect is seen in political groups. People are on divisive grounds probably because they are locked in an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media)#:~:text=An%20echo%20chamber%20is%20%22an,reverberate%20in%20a%20hollow%20enclosure.) that breeds biases.
 
-- Publication in [Nature Scientific Reports]: (https://www.nature.com/articles/s41598-025-96182-5). Hey, might get included in the textbooks one day, right? You never know. 
+- Publication in [Nature Scientific Reports]: (https://www.nature.com/articles/s41598-025-96182-5). Hey, might get included in the textbooks one day, right? You never know.
 
 ### Takeaways
 
