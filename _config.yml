@@ -3,8 +3,8 @@
 
 title: annhuang
 description: a minimal, text focused blog theme
+# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://annnhuang.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
 # host: 0.0.0.0
 #########################
 # more settings
