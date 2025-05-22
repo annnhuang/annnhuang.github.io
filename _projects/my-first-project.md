@@ -4,7 +4,6 @@ title: Making decisions is not as simple as you think
 description: How do we influence each other's choices?
 ---
 
-
 ## Decision in daily life is not a simple process
 
 Perception is simply experiecing the world through our senses. Everday we perceive things around us, like searching for your car keys in a pile of keys. Or, if you have experiences playing badminton, which is a super fast-paced sport, you'd frequently run into instances where you have to determine wehther the shuttle lands inside, outside, or on the court line. This is an example of a process called *perceptual decision-making* because you make decisions based on what you see using your visual senses. As such it is a central aspect, or even some call it a ["window"](https://www.bccn-berlin.de/talks/anne-urai-choice-history-bias-as-a-window-into-cognition-and-neural-circuits.html) to understanding our cognition.

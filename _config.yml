@@ -11,6 +11,8 @@ url: "https://annnhuang.github.io/" # the base hostname & protocol for your site
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 whitelist:
   - jekyll-redirect-from
