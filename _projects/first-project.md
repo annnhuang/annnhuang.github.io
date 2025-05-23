@@ -34,7 +34,7 @@ However, I'd be doing a disservice to myself to think that all the sweat, pain a
 
 - The joint design allows for a systematic comparison with the findings on choice history bias from those of the single-participant designs. Moreover, this method is generalizable across various contexts and populations e.g, Human-AI interaction. Since humans treat [computers as social actors](https://dl.acm.org/doi/10.1145/191666.191703), what if, say, a virtual assistant consistently reports to you the wrong information, does that change the way you trust or interact with it?
 
-- We were the first to document the influence of social interaction in influencing the choice history bias effect! That said, the implications extend to other scnearios. Going off tangent here, but I wonder how often this choice bias effect is seen in political groups. People are divisive perhaps because they are locked in an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media)#:~:text=An%20echo%20chamber%20is%20%22an,reverberate%20in%20a%20hollow%20enclosure.) that breeds biases.
+-First to document social interaction influencing choice history bias effect! That said, the implications extend to other scenarios. Going off tangent here, but I wonder how often this choice bias effect is seen in political groups. People are divisive perhaps because they are locked in an [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media)#:~:text=An%20echo%20chamber%20is%20%22an,reverberate%20in%20a%20hollow%20enclosure.) that breeds biases.
 
 - Publication in [Nature Scientific Reports](https://www.nature.com/articles/s41598-025-96182-5). Hey, might get included in the textbooks one day, right? You never know.
 
