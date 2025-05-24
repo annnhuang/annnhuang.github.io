@@ -28,7 +28,7 @@ Basically our behavior emerges from our real-time interactions with the surround
 
 So what we did was we created a joint perceptual task and collected behavioral data from people grouped in dyads. **Our results indicated that people do not ignore other’s choices when they make decisions.**
 
-A research study like this almost never brings immediate changes to the society or world at large in ways that you can see with your own eyes. I mean, even if there's merit to our results, it's not like in real life we're bombarded with similar visual information every second.
+A research study like this almost never brings immediate changes to the society or world at large in ways that you can see with your own eyes. I mean, even if there's merit to our results, in real life we're not bombarded with similar visual information every second.
 
 However, I'd be doing a disservice to myself to think that all the sweat, pain and tears that go into the study were not worthwhile. Some impact I see this study brings to the academic community are as follows:
 
@@ -40,6 +40,6 @@ However, I'd be doing a disservice to myself to think that all the sweat, pain a
 
 ## Takeaways
 
-- Multiple iterations is always needed until the task is fully functional and replicable-  being able to handle deep frustrations is part of the process.
+- Multiple iterations is always needed until the task is fully functional and replicable- being able to handle deep frustrations is part of the process.
 
 - The practice of synthetic data simulation is always, not only a great sanity check on data integrity, but also a excellent tool to build a solid understanding of the analysis process.
