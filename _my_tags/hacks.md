@@ -1,4 +1,0 @@
----
-slug: hacks
-name: Hacks
----
