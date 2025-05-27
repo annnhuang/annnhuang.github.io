@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buffalo, alpaca, and fufji recipe'
+title: "Buffalo, alpaca, and fufji recipe"
 date: 2025-03-22
 tags: [travel]
 ---
