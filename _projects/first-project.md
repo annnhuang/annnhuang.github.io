@@ -18,7 +18,7 @@ But these studies have traditionally focused on one person only. By doing this, 
 
 And this is what my project is all about. I included the element of social interaction in this classical experiment to better understand perception and behavior. In other words, I extended this individual setup to a dyadic one, to see how, given what we already know about choice history bias, whether observing your dyadic partner chooses would in turn influence what you choose and vice versa.
 
-<img src="/assets/images/dyadic-task.jpg" alt="alternate text" width="630" height="250">
+<img src="/assets/images/projects/dyadic-task.jpg" alt="alternate text" width="630" height="250">
 
 This experimental methodology we designed in the research domain of choice history and decision-making is new, however the concept is not so new. The idea goes back to what's called the [embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition), which suggests that how we think and behave are shaped by bodily interactions. For example, when you look at where your friend is looking at, you might develop some understanding about what your friend intends to do. Or you smile back when a stranger smiles at you.
 
