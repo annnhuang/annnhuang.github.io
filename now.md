@@ -18,7 +18,7 @@ Earlier this year, I was with my family in Bangkok. Love that city, and would ki
 - Phuket, Thailand
 - Chiang Mai, Thailand
 
-<img src="/assets/images/now/bangkok.jpg.jpg" alt="alternate text" width="500" height="350">
+<img src="/assets/images/now/bangkok.jpg" alt="alternate text" width="500" height="350">
 
 I am currently very deep into the job hunting process. My days have been filled with, at times, extreme ups and downs. I'm trying to be indfferent and objective but it's difficult to have zero emotions. If you've been through or are going through job hunting you probably can relate.
 
