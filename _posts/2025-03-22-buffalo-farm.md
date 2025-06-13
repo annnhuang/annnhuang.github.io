@@ -32,7 +32,7 @@ Afterwards we visted the garden center hoping to get some lemon trees. But we go
            <img src="/assets/images/blog/buffalo-farm/buffalo-11.jpg">
            <img src="/assets/images/blog/buffalo-farm/buffalo-12.jpg">
            <img src="/assets/images/blog/buffalo-farm/buffalo-13/assets.jpg">
-           <img src="/images/blog/buffalo-farm/buffalo-14.jpg">/assets
+           <img src="/images/blog/buffalo-farm/buffalo-14.jpg">
            <img src="/images/blog/buffalo-farm/buffalo-15.jpg">
 
 </div>
