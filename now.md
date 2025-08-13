@@ -11,18 +11,12 @@ permalink: /now/
   inspired by <a href="https://nownownow.com/about">Derek Sivers</a>.
 </details>
 
-Earlier this year, I was with my family in Bangkok. Love that city, and would kill for a deep travel through southeast Asia. Some places on my mind:
+I recently had a small weekend get-away to the city of Maastricht to celebrate my #PhDONE 🎓.
+It was a very much needed refreshing and relaxing trip! The city had both French and Belgian influences and you can see from the architecture. I had so much fun taking photos.
 
-- Luang Prabang, Laos
-- Vientiane, Laos
-- Phuket, Thailand
-- Chiang Mai, Thailand
+<img src="/assets/images/now/river.jpg" alt="alternate text" width="500" height="350">
 
-<img src="/assets/images/now/bangkok.jpg" alt="alternate text" width="500" height="350">
 
-I am currently very deep into the job hunting process. My days have been filled with, at times, extreme ups and downs. I'm trying to be indfferent and objective but it's difficult to have zero emotions. If you've been through or are going through job hunting you probably can relate.
-
-- 📚 Reading: Any book recommendations?
-- 🛠 Working on: Revising my CV, resume, preparing for my PhD defence
-- 💡 Exploring: consulting as a career, data storytelling
-- 🌱 Growing: trying to not take rejections personally, believing that a right opportunity will eventually come
+- Reading: Recently it's been a lot of literature reading on the social tipping point and how that applies to the climate crisis
+- Working on: The JSPS Postdoctoral application, and other postdoctoral opportunities I see
+- Growing: Trying to be patient and not to take rejections personally, also believing that the right opportunity will come
