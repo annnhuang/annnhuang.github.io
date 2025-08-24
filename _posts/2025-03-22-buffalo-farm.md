@@ -17,8 +17,7 @@ Afterwards we visted the garden center hoping to get some lemon trees. But we go
 
 ## Garden center
 
-
-The photos were taken using mostly the Kodachrome64 recipe, sometimes the Kodachrome+ :)
+The photos were taken using mostly the Kodachrome64 recipe, sometimes the Kodachrome+
 
 For a while I was looking for a simulation that would be great for overcast, cloudy days. I found the Kodachrome64 simulation quite suitable for this. I like how it gives off a low-key vibrant, with a bit of a film like look.
 
@@ -38,7 +37,7 @@ Color Chrome Effect: Strong\
 Color Chrome Effect Blue: Weak\
 White Balance: Daylight, +2 Red & -5 Blue\
 ISO: Auto, up to ISO 6400\
-Exposure Compensation: 0 to +2/3 (typically)\
+Exposure Compensation: 0 to +2/3 (typically)
 
 **Kodachrome+**
 
