@@ -86,8 +86,7 @@
     {% assign filename = filenameparts | last | replace: file.extname,"" %}
     <!-- Thumbnail -->
     <a href="#img{{ forloop.index }}" title="{{ filename }}">
-    <!--<img src="//images.weserv.nl/?url=annnhuang.github.io{{ file.path }}&w=600&h=600&output=jpg&q=70&t=square" alt="{{ filename }}" /> -->
-    <img src="{{ file.path | relative_url }}" alt="{{ filename }}" class="gallery-thumb" />
+      <img src="//images.weserv.nl/?url=annnhuang.github.io{{ file.path }}&w=600&h=600&output=jpg&q=70&t=square" alt="{{ filename }}" />
     </a>
     <!-- Lightbox -->
     <div class="lightbox" id="img{{ forloop.index }}">
