@@ -5,15 +5,13 @@ date:   2025-08-09
 tags: [travel]
 ---
 
+## Road trip!!
 
-## Stopping by Germany to get groceries
+Stopping by Germany to get some groceries was one of the highlights of the road trip! Looking at the map while driving, we decided to take a quick stop at REWE in the German town called Tüddern. How I miss the grocery prices in Germany! We decided in our hearts to take a cooler everytime we go near the broader or cross the broder to Germany 😂
 
-This was one of the highlights of the road trip! Looking at the map while driving, we decided to take a quick stop at REWE in the German town called Tüddern. How I miss the grocery prices in Germany! We decided in our hearts to take a cooler everytime we go near the broader or cross the broder to Germany 😂
-
-<div class="owl-carousel gallery--carousel">
-  <img src="/assets/images/blog/maastricht/m9.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m10.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m8.jpeg" alt="">
+<div class="image-gallery">
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m9.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m10.jpeg" alt=""></div>
 </div>
 
 ## The North Caves Maastricht Underground
@@ -22,16 +20,14 @@ The first stop was the North Caves. The underground cave was super huge and the 
 
 [The North Caves](https://maps.app.goo.gl/zBHp3X9VgB4f3kvSA)
 
-<div class="owl-carousel gallery--carousel">
-  <img src="/assets/images/blog/maastricht/m7.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m6.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m5.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m4.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m3.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m2.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m1.jpeg" alt="">
+<div class="image-gallery">
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m7.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m6.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m5.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m4.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m2.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m1.jpeg" alt=""></div>
 </div>
-
 
 ## Finally..the tacos
 
@@ -43,9 +39,9 @@ I generally enjoyed it, but if you’re looking for somewhere that will satisfy 
 
 [JUTOMATO](https://maps.app.goo.gl/CG12m21Nw95Stm3o9)
 
-<div class="owl-carousel gallery--carousel">
-  <img src="/assets/images/blog/maastricht/m11.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m12.jpeg" alt="">
+<div class="image-gallery">
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m11.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m12.jpeg" alt=""></div>
 </div>
 
 ## Castle Vaeshartelt was not as expected!
@@ -58,14 +54,13 @@ Anyway despite all these, we still enjoyed our time. Just that it was quite an e
 
 [Castle Vaeshartelt](https://maps.app.goo.gl/wMbbvamitjfgNc3V7)
 
-<div class="owl-carousel gallery--carousel">
-  <img src="/assets/images/blog/maastricht/m13.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m14.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m15.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m16.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m17.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m18.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m19.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m20.jpeg" alt="">
-  <img src="/assets/images/blog/maastricht/m21.jpeg" alt="">
+<div class="image-gallery">
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m13.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m14.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m15.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m16.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m17.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m18.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m20.jpeg" alt=""></div>
+  <div class="gallery-item"><img src="/assets/images/blog/maastricht/m21.jpeg" alt=""></div>
 </div>

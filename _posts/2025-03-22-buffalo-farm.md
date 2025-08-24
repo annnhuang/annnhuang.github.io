@@ -11,31 +11,11 @@ Interesting to see buffalo for the first time in my life, also trying the buffal
 
 ## Buffalo farm (Buffelrijk)
 
-<div class="owl-carousel gallery--carousel">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-1.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-2.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-3.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-4.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-5.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-6.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-7.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-8.jpg">
-</div>
+{% include image-gallery.html folder="assets/images/blog/farm" %}
 
 Afterwards we visted the garden center hoping to get some lemon trees. But we got the citrus kumquat tree, cherry tomato and the blueberry trees instead. The citrus kumquat was precious (not sold at regular supermarkets) and delicious! Let's see if they make it to next year for harvest...
 
 ## Garden center
-
-<div class="owl-carousel gallery--carousel">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-9.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-10.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-11.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-12.jpg">
-           <img src="/assets/images/blog/buffalo-farm/buffalo-13/assets.jpg">
-           <img src="/images/blog/buffalo-farm/buffalo-14.jpg">
-           <img src="/images/blog/buffalo-farm/buffalo-15.jpg">
-
-</div>
 
 
 The photos were taken using mostly the Kodachrome64 recipe, sometimes the Kodachrome+ :)

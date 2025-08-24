@@ -7,16 +7,9 @@ title: Hello
 
 ### I write, travel, take photos, make things, and conduct research on topics I find interesting.
 
-**ooh and did I mention I really love cats and dogs?**
-
 I am a proud mama of two british shorthairs that are angels by night, devils by early morning, a courageous orange tabby and a super extroverted but insecure 1 year-old mountain dog.
 
-<div class="owl-carousel gallery--carousel">
-  <img src="/assets/images/home/7.jpg" alt="">
-  <img src="/assets/images/home/11.jpg" alt="">
-  <img src="/assets/images/home/yellow.jpg" alt="">
-  <img src="/assets/images/home/opa.jpg" alt="">
-</div>
+{% include image-gallery.html folder="assets/images/home" %}
 
 I was born and raised in a small village filled with <a href="/assets/images/home/rice-paddy.jpg" target="_blank">rice paddy fields</a> in Taiwan🧋, one of the most beautiful places on earth in my opinion. What I miss most are the lush and massive <a href="/assets/images/home/mountain-ranges.jpg" target="_blank">mountain</a> backdrops, being surrounded by the deep <a href="/assets/images/home/ocean-blue.jpg" target="_blank">blueness</a> of the <a href="/assets/images/home/pacific.jpg" target="_blank">Pacific</a>, the heavy downpours ([sounds like this](https://www.youtube.com/watch?v=zkFcANp-eLo&ab_channel=INDOVILLAGE)) and the the [sounds of cicada](https://www.youtube.com/watch?v=xj7ylgj2JlQ&ab_channel=CatTrumpet) that brings back fond memories.
 
