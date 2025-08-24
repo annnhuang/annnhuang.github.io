@@ -19,6 +19,7 @@
 }
 
 /* === Lightbox === */
+
 .lightbox {
   display: none;
   position: fixed;
@@ -86,8 +87,7 @@
     <!-- Thumbnail -->
     <a href="#img{{ forloop.index }}" title="{{ filename }}">
     <!--<img src="//images.weserv.nl/?url=annnhuang.github.io{{ file.path }}&w=600&h=600&output=jpg&q=70&t=square" alt="{{ filename }}" /> -->
-    <img src="//images.weserv.nl/?url=annnhuang.github.io{{ file.path | remove_first:'/' }}&w=600&h=600&output=jpg&q=70&t=square" alt="{{ filename }}" />
-    <!--<img src="{{ file.path | relative_url }}" alt="{{ filename }}" class="gallery-thumb" /> -->
+    <img src="{{ file.path | relative_url }}" alt="{{ filename }}" class="gallery-thumb" />
     </a>
     <!-- Lightbox -->
     <div class="lightbox" id="img{{ forloop.index }}">
