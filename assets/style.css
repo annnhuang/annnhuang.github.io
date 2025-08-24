@@ -279,6 +279,7 @@ ul.project-list li a {
 
 /* === Carousel Gallery === */
 
+
 .gallery--carousel img {
   max-width: 180%;
   max-height: 600px;
@@ -315,4 +316,34 @@ ul.project-list li a {
 
 .gallery--carousel .owl-dot.active {
   background: #ff6600; /* Change this to match your accent color */
+}
+
+/* === Masonry Gallery (CSS-only) === */
+.image-gallery {
+  column-count: 1;         /* default: 1 column on small screens */
+  column-gap: 10px;        /* space between columns */
+}
+
+.gallery-item {
+  break-inside: avoid;     /* prevents images from breaking awkwardly */
+  margin-bottom: 10px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;      /* optional: makes corners softer */
+}
+
+/* Responsive breakpoints */
+@media (min-width: 600px) {
+  .image-gallery {
+    column-count: 2;       /* 2 columns on tablets */
+  }
+}
+@media (min-width: 1000px) {
+  .image-gallery {
+    column-count: 3;       /* 3 columns on larger screens */
+  }
 }

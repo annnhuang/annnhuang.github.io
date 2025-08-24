@@ -20,6 +20,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    exifr (1.4.1)
     ffi (1.17.2)
     ffi (1.17.2-arm64-darwin)
     ffi (1.17.2-x86_64-darwin)
@@ -55,6 +56,9 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-minimagick (0.0.4)
+      jekyll (>= 0.10.0)
+      mini_magick (>= 3.3)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.1.0)
@@ -74,7 +78,10 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     mercenary (0.4.0)
+    mini_magick (5.3.1)
+      logger
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.2)
@@ -103,10 +110,13 @@ PLATFORMS
   x86_64-darwin
 
 DEPENDENCIES
+  exifr
   jekyll-bear-theme!
+  jekyll-minimagick
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
+  mini_magick
   webrick (~> 1.9.1)
 
 BUNDLED WITH
