@@ -78,12 +78,16 @@
 }
 </style>
 
+
+
 <div class="image-gallery">
 {% assign images = site.static_files | where_exp: "file","file.path contains include.folder" %}
+{% assign prefix = include.folder | replace:'/','-' | replace: ' ', '-' %}
 {% for file in images %}
   {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
     {% assign filenameparts = file.path | split: "/" %}
     {% assign filename = filenameparts | last | replace: file.extname,"" %}
+
     <!-- Thumbnail -->
     <a href="#img{{ forloop.index }}" title="{{ filename }}">
       <img src="//images.weserv.nl/?url=annnhuang.github.io{{ file.path }}&w=600&h=600&output=jpg&q=70&t=square" alt="{{ filename }}" />
