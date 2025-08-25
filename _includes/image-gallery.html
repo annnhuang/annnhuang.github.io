@@ -79,45 +79,36 @@
 
 <div class="image-gallery">
   {% assign images = site.static_files | where_exp: "file","file.path contains include.folder" %}
-  {% assign prefix = include.folder | replace:'/','-' | replace: ' ', '-' %}
   {% for file in images %}
-    {% assign ext = file.extname | downcase %}
-    {% if ext == '.jpg' or ext == '.jpeg' %}
-      {% assign filenameparts = file.path | split: '/' %}
-      {% assign filename = filenameparts | last | replace: file.extname, '' %}
+    {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+      {% assign filenameparts = file.path | split: "/" %}
+      {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
       <!-- Thumbnail -->
-      <a href="#img{{ prefix }}-{{ forloop.index }}" title="{{ filename }}">
-        {% if jekyll.environment == "production" and site.url %}
-          <!-- Production: use weserv (encode filename) -->
-          <img
-            src="//images.weserv.nl/?url={{ site.url | remove: 'https://' | remove: 'http://' }}{{ file.path | remove_first:'/' | uri_escape }}&w=600&h=600&output=jpg&q=70&t=square" alt="{{ filename }}"
-            class="gallery-thumb"
-            loading="lazy"
-          />
-        {% else %}
-          <!-- Development: use local file so thumbnails show while developing -->
-          <img src="{{ file.path | relative_url }}" alt="{{ filename }}" class="gallery-thumb" loading="lazy" />
-        {% endif %}
+      <a href="#img{{ forloop.index }}" title="{{ filename }}">
+        <img src="//images.weserv.nl/?url=annnhuang.github.io{{ file.path }}&w=600&h=600&output=jpg&q=70&t=square"
+             alt="{{ filename }}" class="gallery-thumb" />
       </a>
 
       <!-- Lightbox -->
-      <div class="lightbox" id="img{{ prefix }}-{{ forloop.index }}">
+      <div class="lightbox" id="img{{ forloop.index }}">
         <a href="#" class="close">&times;</a>
         <img src="{{ file.path | relative_url }}" alt="{{ filename }}" />
+
         {% if forloop.first %}
-          <a href="#img{{ prefix }}-{{ forloop.length }}" class="prev">&#10094;</a>
+          <a href="#img{{ forloop.length }}" class="prev">&#10094;</a>
         {% else %}
-          <a href="#img{{ prefix }}-{{ forloop.index0 }}" class="prev">&#10094;</a>
+          <a href="#img{{ forloop.index0 }}" class="prev">&#10094;</a>
         {% endif %}
+
         {% if forloop.last %}
-          <a href="#img{{ prefix }}-1" class="next">&#10095;</a>
+          <a href="#img1" class="next">&#10095;</a>
         {% else %}
-          <a href="#img{{ prefix }}-{{ forloop.index | plus:1 }}" class="next">&#10095;</a>
+          <a href="#img{{ forloop.index | plus:1 }}" class="next">&#10095;</a>
         {% endif %}
+
         <div class="counter">{{ forloop.index }} / {{ forloop.length }}</div>
       </div>
-
     {% endif %}
   {% endfor %}
 </div>
