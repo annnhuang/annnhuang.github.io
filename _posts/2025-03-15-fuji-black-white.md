@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Things look more elegant in black and white"
+title: "Photos in black and white"
 date: 2025-03-15
 tags: [general]
 ---
