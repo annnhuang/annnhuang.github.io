@@ -96,7 +96,7 @@
         <!--the nocache forces Weserv to always fetch the latest image, so thumbnails don’t get stuck with old/missing versions. -->
         <img src="https://images.weserv.nl/?url=annnhuang.github.io/{{ include.folder }}/{{ rawname | uri_escape }}&w=600&h=600&output=jpg&q=70&t=square&nocache={{ site.time | date: '%s' }}" alt="{{ filename }}" class="gallery-thumb" />
       </a>
-
+      
       <!-- Lightbox -->
       <div class="lightbox" id="img{{ forloop.index }}">
         <a href="#" class="close">&times;</a>
