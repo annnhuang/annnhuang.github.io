@@ -79,10 +79,12 @@
 
 <div class="image-gallery">
   {% assign images = site.static_files | where_exp: "file", "file.path contains include.folder" %}
+  <!-- Makes images appear in a predictable order. -->
   {% assign images = images | sort: 'path' %}
 
   {% for file in images %}
     {% assign ext = file.extname | downcase %}
+    <!-- Case-insensitive extension check. -->
     {% if ext == '.jpg' or ext == '.jpeg' %}
 
       {% assign filenameparts = file.path | split: "/" %}
@@ -91,8 +93,8 @@
 
       <!-- Thumbnail -->
       <a href="#img{{ forloop.index }}" title="{{ filename }}">
-        <img src="https://images.weserv.nl/?url=annnhuang.github.io/{{ include.folder }}/{{ rawname | uri_escape }}&w=600&h=600&output=jpg&q=70&t=square"
-             alt="{{ filename }}" class="gallery-thumb" />
+        <!--the nocache forces Weserv to always fetch the latest image, so thumbnails don’t get stuck with old/missing versions. -->
+        <img src="https://images.weserv.nl/?url=annnhuang.github.io/{{ include.folder }}/{{ rawname | uri_escape }}&w=600&h=600&output=jpg&q=70&t=square&nocache={{ site.time | date: '%s' }}" alt="{{ filename }}" class="gallery-thumb" />
       </a>
 
       <!-- Lightbox -->
