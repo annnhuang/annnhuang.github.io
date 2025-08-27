@@ -2,7 +2,7 @@
 layout: post
 title: "Buffalo, alpaca, and Kodachrome64"
 date: 2025-03-22
-tags: [travel]
+tags: [photography]
 ---
 
 Highlight of the day was the alpaca 😂

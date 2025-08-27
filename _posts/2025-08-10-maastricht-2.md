@@ -2,7 +2,7 @@
 layout: post
 title:  "Maastricht's got vibes part 2"
 date:   2025-08-10
-tags: [travel]
+tags: [travel, photography]
 ---
 
 First stop was coffee at [Ally Cat Bikes & Coffee](https://maps.app.goo.gl/MVB2NFgb6aLSFfUh6). Then walking around the city, enjoying the quiet Sunday morning. For lunch we went for dim sum at [Wen Chow](https://maps.app.goo.gl/67mNLHAd98tbxreP8), which I thought was amazing. Hayley was not too impressed though, she thinks Full Moon City in Den Haag is still the best.

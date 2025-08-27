@@ -2,7 +2,7 @@
 layout: post
 title:  "Maastricht's got vibes part 1"
 date:   2025-08-09
-tags: [travel]
+tags: [travel, photography]
 ---
 
 Road trip was fun. The highlight was stopping by Germany to get some groceries! How I miss the grocery prices in Germany! We decided in our hearts to take a cooler everytime we go near the broader or cross the broder to Germany 😂

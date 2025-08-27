@@ -3,7 +3,7 @@ layout: post
 title:  "Create a website using Jekyll & Github under 5 minutes"
 subtitle:  "Great fun, very useful, and completely free"
 date:   2022-05-05
-tags: [general]
+tags: [general, tutorial]
 ---
 
 Here are 10 steps to create a website using Jekyll and host it using Github Pages.
