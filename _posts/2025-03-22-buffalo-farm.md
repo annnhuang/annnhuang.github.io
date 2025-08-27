@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buffalo, alpaca, and Fujifilm recipe"
+title: "Buffalo, alpaca, and Kodachrome64"
 date: 2025-03-22
 tags: [travel]
 ---

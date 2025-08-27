@@ -17,6 +17,6 @@ It was a very much needed refreshing and relaxing trip! The city had both French
 <img src="/assets/images/now/river.jpg" alt="alternate text" width="500" height="350">
 
 
-- Reading: Recently it's been a lot of literature reading on the social tipping point and how that applies to the climate crisis
-- Working on: The JSPS Postdoctoral application, and other postdoctoral opportunities I see
+- Reading: [Empire of AI](https://www.youtube.com/watch?v=tDQ0vZETJtE&ab_channel=StanfordGraduateSchoolofBusiness) by Karen Hao, Computer Power and Human Reason by Joseph Weizenbaum
+- Busy with: Applying to postdoc positions
 - Growing: Trying to be patient and not to take rejections personally, also believing that the right opportunity will come

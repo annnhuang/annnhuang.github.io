@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maastricht's got vibes day two"
+title:  "Maastricht's got vibes part 2"
 date:   2025-08-10
 tags: [travel]
 ---
