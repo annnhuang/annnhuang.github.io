@@ -54,10 +54,14 @@ timezone: Europe/Amsterdam
 future: false
 
 exclude:
-- README.md
-- LICENSE.md
-
-exclude: [vendor]
+  - README.md
+  - LICENSE.md
+  - vendor
+  - node_modules
+  - raw_photos
+  - large_assets
+  - .sass-cache
+  - Gemfile*
 
 # Add general links to site pages here
 links:
