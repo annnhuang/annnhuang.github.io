@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Making decisions is not as simple as you think
-description: How do we influence each other's choices?
+layout: post
+title: Making decisions is not a simple process
+date: 2025-02-20
+tags: [science]
 ---
 
 ## Decision in daily life is not a simple process
@@ -10,7 +11,7 @@ Perception is simply experiecing the world through our senses. Everyday we proce
 
 In the research world of visual decision-making, it's been known that people are biased by their previous choices when they make decisions. Simple behavioral experiments demonstrated this. These experiments, often long and boring 💤, invovled people sitting in front of a computer screen and repeatedly make a decision in response to the stimulus they see. For example, a visual simulus can be a cloud of dots either dominantly moving towards the right or left. Every time when the stimulus appears, people have to make a speeded response on whether it's moving rightward or leftward.
 
-In many of these cases, it's been shown that what people chose previously, those decisions accumulated into a *bias* when they make the next decision *even when the successive stiumulus are uncorrelated*. That is, if you decided that those dots were moving rightward, then there's a higher likelihood that you would choose rightward again. **Anyway, it's facinating and reveals a lot about how we huamn beings navigate the uncertain world.** One can dive as deep into the [research](https://www.youtube.com/watch?v=oqhK_bJfMf4&ab_channel=ComputationalCognitiveScienceSummerSchool) rabbit hole as they wish to understand this.
+In many of these cases, it's been shown that what people chose previously, those decisions accumulated into a *bias* when they make the next decision *even when the successive stiumulus are uncorrelated*. That is, if you decided that those dots were moving rightward, then there's a higher likelihood that you would choose rightward again. **Anyway, it's facinating and reveals a lot about how we huamn beings navigate the uncertain world.** One can dive as deep into the research rabbit hole as they wish to understand this.
 
 But these studies have traditionally focused on one person only. By doing this, you are essentially assuming that humans are isolated "heads" out and about experiencing the world. In other words, the physical world we experience everyday is not just us mentally processing a specific sensory information. It's more sophisticated than that. For instance, when searching for your key, you might have remembered discussing with your mom where it was last found. Or, you might have searched *together* with your mom, while observing where she's looking of or even facial expressions to gain more information about the whereabouts of the key. **What we experience everyday is not only processing these surrouding sensory stimuli but also interactions with other people.**
 
@@ -18,7 +19,7 @@ But these studies have traditionally focused on one person only. By doing this, 
 
 And this is what my project is all about. I included the element of social interaction in this classical experiment to better understand perception and behavior. In other words, I extended this individual setup to a dyadic one, to see how, given what we already know about choice history bias, whether observing your dyadic partner chooses would in turn influence what you choose and vice versa.
 
-<img src="/assets/images/projects/dyadic-task.jpg" alt="alternate text" width="630" height="250">
+<img src="/assets/images/blog/dyadic-task.jpg" alt="alternate text" width="630" height="250">
 
 This experimental methodology we designed in the research domain of choice history and decision-making is new, however the concept is not so new. The idea goes back to what's called the [embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition), which suggests that how we think and behave are shaped by bodily interactions. For example, when you look at where your friend is looking at, you might develop some understanding about what your friend intends to do. Or you smile back when a stranger smiles at you.
 

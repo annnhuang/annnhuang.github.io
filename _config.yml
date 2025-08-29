@@ -63,7 +63,7 @@ exclude: [vendor]
 links:
   Now: /now/
   Blog: /blog/
-  Projects: /projects/
+  # Projects: /projects/
   # Resume: /assets/resume.pdf
 
 # Add links for more focus here
