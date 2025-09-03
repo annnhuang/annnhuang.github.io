@@ -5,7 +5,7 @@ title: Hello
 
 ## Hi, my name is Ann.
 
-### I love to take photos, write, and conduct research on topics I find interesting.
+### I love to travel, take photos, write, and conduct research on topics I find interesting.
 
 I am a proud mama of two british shorthairs that are angels by night, devils by early morning. Back home I also have a courageous orange tabby and a super extroverted but insecure 1 year-old mountain dog.
 
