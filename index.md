@@ -3,9 +3,9 @@ layout: default
 title: Hello
 ---
 
-## Hi, my name is Ann.
+## Hi, my name is Ann. Welcome to my photo blog.
 
-### I love to take photos, travel, and write about random things.
+### I love to travel, take photos, and write about random things.
 
 I aso love dogs and cats. I am a proud mama of two british shorthairs that are angels by night, devils by early morning. Back home I also have a courageous orange tabby and a super extroverted but insecure 1 year-old mountain dog.
 
