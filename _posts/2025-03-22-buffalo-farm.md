@@ -3,6 +3,7 @@ layout: post
 title: "Buffalo, alpaca, and Kodachrome64"
 date: 2025-03-22
 tags: [photography]
+header_image: /assets/images/blog/farm/buffalo-2.jpg
 ---
 
 Highlight of the day was the alpaca 😂

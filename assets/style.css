@@ -347,3 +347,87 @@ ul.project-list li a {
     column-count: 3;       /* 3 columns on larger screens */
   }
 }
+
+
+/* === Blog Style=== */
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem 0;
+}
+
+.blog-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.blog-card-image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.blog-card:hover .blog-card-image {
+  transform: scale(1.05);
+}
+
+.blog-card-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.7), rgba(0,0,0,0));
+  color: #fff;
+}
+
+.blog-card-overlay time {
+  display: block;
+  font-size: 0.9rem;
+  opacity: 0.85;
+  margin-bottom: 0.5rem;
+}
+
+.blog-card-overlay h2 {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+
+/* === Post Cover Image Style=== */
+
+.post-hero {
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.post-hero-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 2rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.65), rgba(0,0,0,0));
+}
+
+.post-hero-overlay h1,
+.post-hero-overlay .subtitle,
+.post-hero-overlay time {
+  color: #fff !important;   /* force white text */
+  text-shadow: 0 2px 4px rgba(0,0,0,0.6); /* optional readability boost */
+}
+
+.post-hero-overlay time {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  opacity: 0.85;
+}

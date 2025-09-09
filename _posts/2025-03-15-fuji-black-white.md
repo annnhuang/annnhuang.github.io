@@ -3,6 +3,7 @@ layout: post
 title: "Photos in black and white"
 date: 2025-03-15
 tags: [photography]
+header_image: /assets/images/blog/black-white/bw6.JPG
 ---
 
 I really like [Greg Williams Photography](https://gregwilliams.com/). His work is phenomenal. He is well known for capturing [Hollywood celebrities in black and white](https://www.instagram.com/gregwilliamsphotography/) using his Leica Q3.
