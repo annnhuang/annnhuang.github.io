@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<!-- Owl Carousel CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+<main>
+  {% include header.html %}
+
+  <article class="post">
+
+    <h1>{{ page.title }}</h1>
+    <i>{{ page.date | date: "%b %d, %Y" }}</i>
+    {% if page.subtitle %}
+      <h4 class="subtitle">{{ page.subtitle }}</h4>
+    {% endif %}
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+  </article>
+</main>
+
+<!-- jQuery (required) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Owl Carousel JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+<!-- Carousel init -->
+<script>
+  $(document).ready(function(){
+    $(".owl-carousel").owlCarousel({
+      items: 1,
+      loop: true,
+      margin: 10,
+      nav: true
+    });
+  });
+</script>
+
+{% include footer-post.html %}
+</body>
+</html>
+
+{% include disqus.html %}

@@ -1,0 +1,4 @@
+---
+slug: ordinary
+name: Ordinary
+---

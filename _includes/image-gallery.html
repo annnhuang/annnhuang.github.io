@@ -1,0 +1,115 @@
+<style>
+/* === Gallery Grid === */
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 10px; /* spacing between images */
+  margin: 20px 0;
+}
+.image-gallery a {
+  display: block;
+  text-decoration: none!important;
+  border: none!important;
+}
+.image-gallery a img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px; /* optional: rounded corners */
+}
+
+/* === Lightbox === */
+.lightbox {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  padding: 20px;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  overflow: auto;
+  background: rgba(0,0,0,.9);
+}
+
+.lightbox img {
+  margin: auto;
+  display: block;
+  max-width: 90%;
+  max-height: 80vh;
+}
+
+.lightbox:target {
+  display: flex;  /* centers contents with flexbox */
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.lightbox a {
+  color: #fff;
+  font-size: 2em;
+  text-decoration: none;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.lightbox .prev {
+  left: 10%;
+}
+
+.lightbox .next {
+  right: 10%;
+}
+.lightbox .close {
+  top: 20px;
+  right: 40px;
+  font-size: 3em;
+  transform: none;
+}
+.lightbox .counter {
+  position: absolute;
+  bottom: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  font-size: 1em;
+  z-index: 1000;
+}
+</style>
+
+<div class="image-gallery">
+  {% assign images = site.static_files | where_exp: "file","file.path contains include.folder" %}
+  {% for file in images %}
+    {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
+      {% assign filenameparts = file.path | split: "/" %}
+      {% assign filename = filenameparts | last | replace: file.extname, "" %}
+      <!-- Thumbnail -->
+      <a href="#img{{ forloop.index }}" title="{{ filename }}">
+        <img src="//images.weserv.nl/?url=coconutsdream.github.io{{ file.path }}&w=600&h=600&output=jpg&q=70&t=square&nocache={{ site.time | date: '%s' }}" alt="{{ filename }}">
+        <!-- the nocache forces Weserv to always fetch the latest image, so thumbnails don’t get stuck with old/missing versions. Try comment the line above,then uncommenting the two lines below, and the uncomment again the line above. The thumbnails should fetch again-->
+        <!--<img src="https://images.weserv.nl/?url=coconutsdream.github.io/{{ include.folder }}/{{ rawname | uri_escape }}&w=600&h=600&output=jpg&q=70&t=square&nocache={{ site.time | date: '%s' }}" alt="{{ filename }}" class="gallery-thumb" /> --->
+        <!--<img src="{{ file.path | relative_url }}" alt="{{ filename }}" class="gallery-thumb" /> --->
+      </a>
+
+      <!-- Lightbox -->
+      <div class="lightbox" id="img{{ forloop.index }}">
+        <a href="#" class="close">&times;</a>
+        <img src="{{ file.path }}" alt="{{ filename }}" />
+
+        {% if forloop.first %}
+          <a href="#img{{ forloop.length }}" class="prev">&#10094;</a>
+        {% else %}
+          <a href="#img{{ forloop.index0 }}" class="prev">&#10094;</a>
+        {% endif %}
+
+        {% if forloop.last %}
+          <a href="#img1" class="next">&#10095;</a>
+        {% else %}
+          <a href="#img{{ forloop.index | plus:1 }}" class="next">&#10095;</a>
+        {% endif %}
+
+        <div class="counter">{{ forloop.index }} / {{ forloop.length }}</div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

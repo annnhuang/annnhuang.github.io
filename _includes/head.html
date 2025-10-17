@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="ann huang, cognitive science, blog, human-computer interaction, data storytelling, HCI, research">
+  <meta name="author" content="Ann Huang">
+  <meta name="robots" content="index, follow">
+
+  <!-- Owl Carousel -->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
+
+  <!-- Lightbox2 CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
+
+  <!-- Atom Feed -->
+  <link href="{{ site.baseurl }}/feed.xml" rel="alternate" type="application/atom+xml">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/og-image.jpg"> <!-- Update this image -->
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/og-image.jpg"> <!-- Update this image -->
+
+  <!-- Jekyll SEO Tag (optional, if plugin is installed) -->
+  {% seo %}
+
+</head>
+
+<body>
